@@ -16,21 +16,26 @@ Esta é uma aplicação de linha de comando baseada em Python que automatiza a l
 No terminal, execute:
 ```bash
 # Criar o ambiente
-python -m venv venv
+python -m venv .venv
 
 # Ativar no Windows:
 venv\Scripts\activate
+
 # Ativar no Linux/Mac:
-source venv/bin/activate
-2. Instalação das Dependências
-Bash
+source .venv/bin/activate
+```
+
+### 2. Instalação das Dependências
+```Bash
 pip install -r requirements.txt
-3. Comando de Execução
-Na raiz do projeto, execute o módulo principal conforme os requisitos do desafio:
+```
 
-Bash
+### 3. Comando de Execução
+
+Na raiz do projeto, execute o módulo principal assim:
+```Bash
 python -m src.main
-
+```
 
 
 ## decisões adotadas para tratar dados inválidos;

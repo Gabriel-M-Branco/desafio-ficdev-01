@@ -28,18 +28,22 @@ def ler_configuracoes() -> ConfiguracaoCaminhos:
 
 def garantir_diretorios(config):
     """Verifica e cria os diretórios de saída necessários."""
+    
     dir_saida = config.get("diretorio_saida", "output")
     dir_graficos = os.path.join(dir_saida, "graficos")
 
     os.makedirs(dir_saida, exist_ok=True)
     os.makedirs(dir_graficos, exist_ok=True)
+
     return dir_saida
 
 
 def ler_categorias(caminho_categorias):
     """Lê o arquivo de categorias."""
+
     if not os.path.exists(caminho_categorias):
         logging.error(f"Arquivo não encontrado: {caminho_categorias}")
         return {}
+    
     with open(caminho_categorias, "r", encoding="utf-8") as f:
         return json.load(f)

@@ -4,8 +4,10 @@ import re
 
 def validar_email(email):
     """Utiliza expressão regular para validar o formato de um e-mail."""
+    
     if not isinstance(email, str):
         return False
+    
     padrao = r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$"
     return bool(re.match(padrao, email.strip()))
 

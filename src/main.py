@@ -42,14 +42,11 @@ def main():
         df_processado, total_originais = processar_dados(config, mapa_categorias)
 
         if df_processado is not None and not df_processado.empty:
-            # Geração de Indicadores
             indicadores = gerar_indicadores(df_processado, total_originais)
 
-            # RF06: Geração de Gráficos
             logging.info("Gerando gráficos (Matplotlib)...")
             exportar_graficos(df_processado, dir_saida)
 
-            # RF07: Exportação de resultados finais
             logging.info("Exportando dados limpos e resumo JSON...")
             exportar_resultados(df_processado, indicadores, dir_saida)
 

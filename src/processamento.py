@@ -24,7 +24,6 @@ def processar_dados(config, mapa_categorias):
     sep = config.get("separador_csv", ";")
 
     try:
-        # Importar os registros
         df = pd.read_csv(caminho_csv, sep=sep)
     except Exception as e:
         logging.error(f"Erro fatal ao ler o CSV: {e}")
@@ -32,7 +31,6 @@ def processar_dados(config, mapa_categorias):
 
     total_linhas_originais = len(df)
 
-    # Tolerância a falhas: se colunas essenciais não existirem, criá-las vazias
     colunas_esperadas = [
         "protocolo",
         "data",
@@ -46,12 +44,10 @@ def processar_dados(config, mapa_categorias):
             df[col] = np.nan
             logging.warning(f"Coluna ausente no CSV, preenchida com nulos: {col}")
 
-    # Tratamento: remover espaços, uniformizar
     df["email"] = df["email"].astype(str).str.strip().str.lower()
     df["protocolo"] = df["protocolo"].astype(str).str.strip().str.upper()
     df["status"] = df["status"].astype(str).str.strip().str.capitalize()
 
-    # Converter datas, tratando formatos distintos (Coerce converte erros para NaT)
     df["data"] = pd.to_datetime(df["data"], errors="coerce")
 
     # Validar campos obrigatórios e rejeitar inválidos

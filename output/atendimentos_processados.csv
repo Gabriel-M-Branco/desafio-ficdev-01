@@ -148,3 +148,4 @@ SUP-2026-0147;;aluno147@example.com;Execução;Em andamento;70.0; Solicitação 
 SUP-2026-0148;;aluno148@example.com;ava;Resolvido;5.0; Solicitação de suporte número 148  ;True;False;Acesso ao AVA;0.009925558312655087
 SUP-2026-0149;2026-07-30;aluno149@example.com;atividade;Em andamento;98.0; Solicitação de suporte número 149  ;True;True;Execução de atividades;0.05607940446650124
 SUP-2026-0150;;aluno150@example.com;senha;Aberto;175.0; Solicitação de suporte número 150  ;True;False;Senha;0.09429280397022333
+;;;;;;;False;False;Desconhecida;
