@@ -1,9 +1,10 @@
-import os
 import json
 import logging
+import os
 from typing import TypedDict
 
 CAMINHO_CONFIG = "data/config.json"
+
 
 class ConfiguracaoCaminhos(TypedDict):
     arquivo_atendimentos: str
@@ -12,11 +13,14 @@ class ConfiguracaoCaminhos(TypedDict):
     diretorio_saida: str
     separador_csv: str
 
-def ler_configuracoes() -> ConfiguracaoCaminhos: 
+
+def ler_configuracoes() -> ConfiguracaoCaminhos:
     """Lê as configurações armazenadas em JSON."""
 
     if not os.path.exists(CAMINHO_CONFIG):
-        raise FileNotFoundError(f"Arquivo de configuração não encontrado: {CAMINHO_CONFIG}")
+        raise FileNotFoundError(
+            f"Arquivo de configuração não encontrado: {CAMINHO_CONFIG}"
+        )
 
     with open(CAMINHO_CONFIG, "r", encoding="utf-8") as f:
         return json.load(f)

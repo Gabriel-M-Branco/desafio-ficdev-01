@@ -1,5 +1,5 @@
-import re
 import logging
+import re
 
 
 def validar_email(email):
