@@ -1,16 +1,16 @@
 {
-    "total_atendimentos_processados": 150,
-    "total_originais": 151,
+    "total_atendimentos_processados": 149,
+    "total_originais": 150,
     "registros_validos": 37,
-    "percentual_invalidos": 74.83,
+    "percentual_invalidos": 74.67,
     "quantidade_por_categoria": {
         "Instalação de programas": 32,
         "Execução de atividades": 31,
         "Acesso ao AVA": 30,
         "Senha": 28,
         "Configuração do Python": 26,
-        "Desconhecida": 2,
-        "Outros": 1
+        "Outros": 1,
+        "Desconhecida": 1
     },
     "quantidade_por_status": {
         "Resolvido": 60,

@@ -18,7 +18,6 @@ def gerar_indicadores(df, total_linhas_originais):
         else 0
     )
 
-    # Utilizando Pandas para agrupar e resumir
     cat_counts = df["categoria_padronizada"].value_counts().to_dict()
     status_counts = df["status"].value_counts().to_dict()
     tempo_medio = (
@@ -51,7 +50,6 @@ def exportar_graficos(df, dir_saida):
 
     dir_graficos = os.path.join(dir_saida, "graficos")
 
-    # 1. Gráfico de Atendimentos por Categoria
     plt.figure(figsize=(10, 6))
     contagem_cat = df["categoria_padronizada"].value_counts()
     contagem_cat.plot(kind="bar", color="skyblue", edgecolor="black")
@@ -63,7 +61,6 @@ def exportar_graficos(df, dir_saida):
     plt.savefig(os.path.join(dir_graficos, "atendimentos_por_categoria.png"))
     plt.close()
 
-    # 2. Histograma da Distribuição dos Tempos de Atendimento
     plt.figure(figsize=(10, 6))
     df["tempo_minutos"].dropna().plot(
         kind="hist", bins=10, color="lightgreen", edgecolor="black"
@@ -78,6 +75,7 @@ def exportar_graficos(df, dir_saida):
 
 def exportar_resultados(df, indicadores, dir_saida):
     """Exporta CSV limpo e JSON de resumo."""
+    
     if df is not None and not df.empty:
         caminho_csv = os.path.join(dir_saida, "atendimentos_processados.csv")
         df.to_csv(caminho_csv, index=False, sep=";", encoding="utf-8")

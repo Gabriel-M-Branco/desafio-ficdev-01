@@ -37,6 +37,13 @@ Na raiz do projeto, execute o módulo principal assim:
 python -m src.main
 ```
 
+### 4. Comando de Execução dos Testes
+
+Na raiz do projeto, execute o módulo de testes assim:
+```Bash
+python -m pytest tests/
+```
+
 
 ## decisões adotadas para tratar dados inválidos;
 
