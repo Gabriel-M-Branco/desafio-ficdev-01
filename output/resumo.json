@@ -1,0 +1,22 @@
+{
+    "total_atendimentos_processados": 149,
+    "total_originais": 150,
+    "registros_validos": 37,
+    "percentual_invalidos": 74.67,
+    "quantidade_por_categoria": {
+        "Instalação de programas": 32,
+        "Execução de atividades": 31,
+        "Acesso ao AVA": 30,
+        "Senha": 28,
+        "Configuração do Python": 26,
+        "Outros": 1,
+        "Desconhecida": 1
+    },
+    "quantidade_por_status": {
+        "Resolvido": 60,
+        "Aberto": 46,
+        "Em andamento": 43
+    },
+    "tempo_medio_atendimento_minutos": 107.55,
+    "categoria_mais_solicitada": "Instalação de programas"
+}
