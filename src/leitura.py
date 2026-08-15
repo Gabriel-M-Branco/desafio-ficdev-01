@@ -12,7 +12,7 @@ class ConfiguracaoCaminhos(TypedDict):
     diretorio_saida: str
     separador_csv: str
 
-def ler_configuracoes(CAMINHO_CONFIG: str) -> ConfiguracaoCaminhos: 
+def ler_configuracoes() -> ConfiguracaoCaminhos: 
     """Lê as configurações armazenadas em JSON."""
 
     if not os.path.exists(CAMINHO_CONFIG):
