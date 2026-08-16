@@ -1,603 +1,374 @@
-2026-08-15 18:05:21,368 - INFO - Carregando mapa de categorias...
-2026-08-15 18:05:21,369 - INFO - Extraindo informações do TXT...
-2026-08-15 18:05:21,369 - INFO - Telefones/Protocolos extraídos: 3
-2026-08-15 18:05:21,369 - INFO - Processando base de dados CSV...
-2026-08-15 18:05:21,375 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0002, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,375 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0003, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,375 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0004, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,375 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0006, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,376 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0007, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,376 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0008, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,376 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0010, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,376 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0011, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,376 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0012, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,377 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0014, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,377 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0015, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,377 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0016, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,377 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0018, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,377 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0019, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,377 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0020, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,377 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0022, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,378 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0023, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,378 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0024, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,378 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0026, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,378 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0027, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,378 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0028, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,378 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0030, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,378 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0031, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,379 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0032, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,379 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0034, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,379 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0035, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,379 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0036, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,379 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0038, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,379 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0039, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,379 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0040, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,379 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0042, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,380 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0043, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,380 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0044, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,380 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0046, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,380 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0047, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,380 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0048, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,380 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0001, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,380 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0051, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,380 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0052, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,380 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0054, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,381 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0055, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,381 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0056, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,381 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0058, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,381 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0059, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,381 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0060, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,381 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0062, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,381 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0063, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,381 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0064, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,381 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0066, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,382 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0067, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,382 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0068, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,382 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0070, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,382 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0071, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,382 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0072, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,382 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0074, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,382 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0075, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,382 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0076, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,382 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0078, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,383 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0079, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,383 - WARNING - Registro rejeitado. Protocolo: PROTOCOLO-80, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,383 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0082, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,383 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0083, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,383 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0084, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,383 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0086, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,383 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0087, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,384 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0088, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,384 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0090, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,384 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0091, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,384 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0092, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,384 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0094, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,384 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0095, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,384 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0096, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,384 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0098, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,385 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0099, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,385 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0100, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,385 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0102, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,385 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0103, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,385 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0104, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,385 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0106, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,385 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0107, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,386 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0108, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,386 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0110, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,386 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0111, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,386 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0112, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,386 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0114, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,386 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0115, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,386 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0116, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,386 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0118, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,386 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0119, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,387 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0120, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,387 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0122, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,387 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0123, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,387 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0124, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,387 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0126, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,387 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0127, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,387 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0128, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,387 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0130, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,387 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0131, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,387 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0132, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,387 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0134, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,388 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0135, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,388 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0136, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,388 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0138, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,388 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0139, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,388 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0140, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,388 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0142, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,388 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0143, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,388 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0144, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,389 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0146, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,389 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0147, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,389 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0148, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,389 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0150, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:05:21,391 - INFO - Gerando gráficos (Matplotlib)...
-2026-08-15 18:05:21,660 - INFO - Exportando dados limpos e resumo JSON...
-2026-08-15 18:05:21,663 - INFO - Processamento concluído com sucesso. Cheque a pasta /output.
-2026-08-15 18:39:48,170 - INFO - Carregando mapa de categorias...
-2026-08-15 18:39:48,170 - INFO - Extraindo informações do TXT...
-2026-08-15 18:39:48,171 - INFO - Telefones/Protocolos extraídos: 3
-2026-08-15 18:39:48,171 - INFO - Processando base de dados CSV...
-2026-08-15 18:39:48,176 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0002, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,176 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0003, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,176 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0004, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,176 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0006, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,177 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0007, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,177 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0008, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,177 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0010, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,177 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0011, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,177 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0012, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,177 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0014, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,177 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0015, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,178 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0016, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,178 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0018, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,178 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0019, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,178 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0020, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,178 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0022, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,178 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0023, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,178 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0024, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,178 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0026, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,179 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0027, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,179 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0028, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,179 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0030, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,179 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0031, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,179 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0032, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,179 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0034, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,179 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0035, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,179 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0036, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,180 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0038, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,180 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0039, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,180 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0040, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,180 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0042, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,180 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0043, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,180 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0044, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,180 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0046, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,180 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0047, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,181 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0048, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,181 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0001, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,181 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0051, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,181 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0052, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,181 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0054, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,181 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0055, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,181 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0056, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,181 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0058, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,182 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0059, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,182 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0060, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,182 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0062, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,182 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0063, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,182 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0064, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,182 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0066, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,183 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0067, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,183 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0068, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,183 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0070, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,183 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0071, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,183 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0072, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,183 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0074, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,183 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0075, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,183 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0076, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,184 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0078, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,184 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0079, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,184 - WARNING - Registro rejeitado. Protocolo: PROTOCOLO-80, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,184 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0082, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,184 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0083, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,184 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0084, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,184 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0086, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,184 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0087, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,184 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0088, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,185 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0090, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,185 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0091, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,185 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0092, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,185 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0094, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,185 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0095, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,185 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0096, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,185 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0098, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,185 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0099, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,185 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0100, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,186 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0102, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,186 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0103, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,186 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0104, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,186 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0106, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,186 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0107, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,186 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0108, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,186 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0110, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,187 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0111, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,187 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0112, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,187 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0114, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,187 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0115, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,187 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0116, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,187 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0118, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,187 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0119, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,188 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0120, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,188 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0122, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,188 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0123, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,188 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0124, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,188 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0126, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,188 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0127, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,188 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0128, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,188 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0130, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,188 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0131, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,188 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0132, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,188 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0134, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,189 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0135, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,189 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0136, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,189 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0138, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,189 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0139, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,189 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0140, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,189 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0142, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,189 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0143, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,189 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0144, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,189 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0146, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,189 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0147, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,190 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0148, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,190 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0150, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:39:48,193 - INFO - Gerando gráficos (Matplotlib)...
-2026-08-15 18:39:48,482 - INFO - Exportando dados limpos e resumo JSON...
-2026-08-15 18:39:48,485 - INFO - Processamento concluído com sucesso. Cheque a pasta /output.
-2026-08-15 18:55:45,089 - INFO - Carregando mapa de categorias...
-2026-08-15 18:55:45,089 - INFO - Extraindo informações do TXT...
-2026-08-15 18:55:45,089 - INFO - Telefones/Protocolos extraídos: 3
-2026-08-15 18:55:45,089 - INFO - Processando base de dados CSV...
-2026-08-15 18:55:45,095 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0002, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,095 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0003, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,095 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0004, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,095 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0006, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,095 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0007, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,095 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0008, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,095 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0010, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,095 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0011, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,096 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0012, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,096 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0014, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,096 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0015, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,096 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0016, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,096 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0018, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,096 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0019, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,096 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0020, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,096 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0022, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,097 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0023, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,097 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0024, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,097 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0026, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,097 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0027, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,097 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0028, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,097 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0030, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,097 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0031, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,098 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0032, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,098 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0034, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,098 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0035, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,098 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0036, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,098 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0038, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,098 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0039, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,098 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0040, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,098 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0042, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,098 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0043, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,099 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0044, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,099 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0046, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,099 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0047, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,099 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0048, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,099 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0001, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,099 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0051, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,099 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0052, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,100 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0054, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,100 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0055, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,100 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0056, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,100 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0058, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,100 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0059, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,100 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0060, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,101 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0062, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,101 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0063, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,101 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0064, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,101 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0066, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,101 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0067, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,101 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0068, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,101 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0070, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,102 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0071, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,102 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0072, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,102 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0074, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,102 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0075, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,102 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0076, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,102 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0078, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,102 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0079, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,103 - WARNING - Registro rejeitado. Protocolo: PROTOCOLO-80, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,103 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0082, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,103 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0083, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,103 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0084, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,103 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0086, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,103 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0087, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,103 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0088, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,104 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0090, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,104 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0091, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,104 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0092, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,104 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0094, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,104 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0095, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,104 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0096, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,104 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0098, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,105 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0099, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,105 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0100, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,105 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0102, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,105 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0103, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,105 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0104, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,105 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0106, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,105 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0107, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,105 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0108, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,106 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0110, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,106 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0111, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,106 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0112, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,106 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0114, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,106 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0115, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,106 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0116, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,106 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0118, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,107 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0119, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,107 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0120, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,107 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0122, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,107 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0123, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,107 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0124, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,107 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0126, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,107 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0127, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,107 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0128, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,107 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0130, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,108 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0131, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,108 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0132, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,108 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0134, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,108 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0135, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,108 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0136, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,108 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0138, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,108 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0139, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,109 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0140, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,109 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0142, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,109 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0143, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,109 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0144, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,109 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0146, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,109 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0147, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,109 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0148, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,109 - WARNING - Registro rejeitado. Protocolo: nan, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:55:45,112 - INFO - Gerando gráficos (Matplotlib)...
-2026-08-15 18:55:45,382 - INFO - Exportando dados limpos e resumo JSON...
-2026-08-15 18:55:45,385 - INFO - Processamento concluído com sucesso. Cheque a pasta /output.
-2026-08-15 18:56:34,584 - INFO - Carregando mapa de categorias...
-2026-08-15 18:56:34,584 - INFO - Extraindo informações do TXT...
-2026-08-15 18:56:34,584 - INFO - Telefones/Protocolos extraídos: 3
-2026-08-15 18:56:34,584 - INFO - Processando base de dados CSV...
-2026-08-15 18:56:34,585 - ERROR - Erro fatal ao ler o CSV: Error tokenizing data. C error: Expected 7 fields in line 152, saw 8
+2026-08-15 20:27:42,278 - INFO - ============================================================
+2026-08-15 20:27:42,278 - INFO - INÍCIO DE UMA NOVA EXECUÇÃO
+2026-08-15 20:27:42,278 - INFO - ============================================================
+2026-08-15 20:27:42,278 - INFO - Carregando mapa de categorias...
+2026-08-15 20:27:42,278 - INFO - Extraindo informações do TXT...
+2026-08-15 20:27:42,279 - INFO - Telefones/Protocolos extraídos: 3
+2026-08-15 20:27:42,279 - INFO - Processando base de dados CSV...
+2026-08-15 20:27:42,284 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0002, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,285 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0003, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,285 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0004, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,285 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0006, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,285 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0007, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,285 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0008, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,286 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0010, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,286 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0011, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,286 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0012, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,286 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0014, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,286 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0015, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,286 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0016, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,286 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0018, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,287 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0019, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,287 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0020, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,287 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0022, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,287 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0023, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,287 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0024, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,287 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0026, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,287 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0027, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,287 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0028, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,288 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0030, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,288 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0031, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,288 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0032, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,288 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0034, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,288 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0035, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,288 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0036, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,288 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0038, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,288 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0039, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,289 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0040, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,289 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0042, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,289 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0043, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,289 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0044, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,289 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0046, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,289 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0047, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,289 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0048, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,290 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0001, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,290 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0051, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,290 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0052, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,290 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0054, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,290 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0055, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,290 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0056, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,290 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0058, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,290 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0059, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,290 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0060, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,291 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0062, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,291 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0063, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,291 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0064, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,291 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0066, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,291 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0067, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,291 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0068, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,291 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0070, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,291 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0071, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,291 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0072, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,292 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0074, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,292 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0075, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,292 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0076, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,292 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0078, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,292 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0079, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,292 - WARNING - Registro rejeitado. Protocolo: PROTOCOLO-80, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,292 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0082, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,292 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0083, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,292 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0084, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,292 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0086, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,293 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0087, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,293 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0088, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,293 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0090, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,293 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0091, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,293 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0092, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,293 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0094, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,293 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0095, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,293 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0096, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,293 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0098, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,293 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0099, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,294 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0100, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,294 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0102, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,294 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0103, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,294 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0104, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,294 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0106, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,294 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0107, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,294 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0108, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,294 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0110, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,295 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0111, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,295 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0112, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,295 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0114, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,295 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0115, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,295 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0116, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,295 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0118, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,296 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0119, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,296 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0120, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,296 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0122, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,296 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0123, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,296 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0124, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,296 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0126, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,296 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0127, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,296 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0128, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,296 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0130, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,296 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0131, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,297 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0132, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,297 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0134, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,297 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0135, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,297 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0136, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,297 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0138, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,297 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0139, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,297 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0140, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,298 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0142, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,298 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0143, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,298 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0144, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,298 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0146, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,298 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0147, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,298 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0148, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,298 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0150, Motivo: Campos essenciais inválidos ou e-mail malformado.
+2026-08-15 20:27:42,301 - INFO - Gerando gráficos (Matplotlib)...
+2026-08-15 20:27:42,587 - INFO - Exportando dados limpos e resumo JSON...
+2026-08-15 20:27:42,590 - INFO - Processamento concluído com sucesso. Cheque a pasta /output.
+2026-08-15 20:27:42,590 - INFO - ------------------------------------------------------------
+2026-08-15 20:27:42,590 - INFO - FIM DA EXECUÇÃO
+2026-08-15 20:27:42,590 - INFO - ------------------------------------------------------------
 
-2026-08-15 18:56:34,586 - WARNING - Não há dados válidos para gerar relatórios.
-2026-08-15 18:56:43,255 - INFO - Carregando mapa de categorias...
-2026-08-15 18:56:43,255 - INFO - Extraindo informações do TXT...
-2026-08-15 18:56:43,255 - INFO - Telefones/Protocolos extraídos: 3
-2026-08-15 18:56:43,255 - INFO - Processando base de dados CSV...
-2026-08-15 18:56:43,261 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0002, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,261 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0003, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,261 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0004, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,261 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0006, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,262 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0007, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,262 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0008, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,262 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0010, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,262 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0011, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,262 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0012, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,262 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0014, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,262 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0015, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,263 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0016, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,263 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0018, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,263 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0019, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,263 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0020, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,263 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0022, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,263 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0023, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,263 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0024, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,263 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0026, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,264 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0027, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,264 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0028, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,264 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0030, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,264 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0031, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,264 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0032, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,264 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0034, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,264 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0035, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,264 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0036, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,265 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0038, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,265 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0039, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,265 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0040, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,265 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0042, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,265 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0043, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,265 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0044, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,265 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0046, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,265 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0047, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,266 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0048, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,266 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0001, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,266 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0051, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,266 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0052, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,266 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0054, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,266 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0055, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,266 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0056, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,266 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0058, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,266 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0059, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,267 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0060, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,267 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0062, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,267 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0063, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,267 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0064, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,267 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0066, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,267 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0067, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,267 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0068, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,267 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0070, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,268 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0071, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,268 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0072, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,268 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0074, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,268 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0075, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,268 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0076, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,268 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0078, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,268 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0079, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,269 - WARNING - Registro rejeitado. Protocolo: PROTOCOLO-80, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,269 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0082, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,269 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0083, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,269 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0084, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,269 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0086, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,269 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0087, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,269 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0088, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,269 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0090, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,270 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0091, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,270 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0092, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,270 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0094, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,270 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0095, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,270 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0096, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,270 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0098, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,270 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0099, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,270 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0100, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,270 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0102, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,270 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0103, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,271 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0104, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,271 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0106, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,271 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0107, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,271 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0108, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,271 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0110, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,271 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0111, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,271 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0112, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,271 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0114, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,271 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0115, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,272 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0116, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,272 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0118, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,272 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0119, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,272 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0120, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,272 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0122, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,272 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0123, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,272 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0124, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,272 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0126, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,272 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0127, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,273 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0128, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,273 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0130, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,273 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0131, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,273 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0132, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,273 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0134, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,273 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0135, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,273 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0136, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,273 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0138, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,274 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0139, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,274 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0140, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,274 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0142, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,274 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0143, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,274 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0144, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,274 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0146, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,274 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0147, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,274 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0148, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,274 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0150, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,275 - WARNING - Registro rejeitado. Protocolo: nan, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 18:56:43,277 - INFO - Gerando gráficos (Matplotlib)...
-2026-08-15 18:56:43,551 - INFO - Exportando dados limpos e resumo JSON...
-2026-08-15 18:56:43,554 - INFO - Processamento concluído com sucesso. Cheque a pasta /output.
-2026-08-15 19:25:01,765 - INFO - Carregando mapa de categorias...
-2026-08-15 19:25:01,765 - INFO - Extraindo informações do TXT...
-2026-08-15 19:25:01,765 - INFO - Telefones/Protocolos extraídos: 3
-2026-08-15 19:25:01,766 - INFO - Processando base de dados CSV...
-2026-08-15 19:25:01,771 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0002, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,771 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0003, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,771 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0004, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,772 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0006, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,772 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0007, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,772 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0008, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,772 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0010, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,772 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0011, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,772 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0012, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,773 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0014, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,773 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0015, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,773 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0016, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,773 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0018, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,773 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0019, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,773 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0020, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,773 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0022, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,773 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0023, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,774 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0024, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,774 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0026, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,774 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0027, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,774 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0028, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,774 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0030, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,774 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0031, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,774 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0032, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,775 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0034, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,775 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0035, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,775 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0036, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,775 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0038, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,775 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0039, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,775 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0040, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,775 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0042, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,776 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0043, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,776 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0044, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,776 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0046, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,776 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0047, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,776 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0048, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,776 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0001, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,776 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0051, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,777 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0052, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,777 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0054, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,777 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0055, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,777 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0056, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,777 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0058, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,777 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0059, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,777 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0060, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,778 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0062, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,778 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0063, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,778 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0064, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,778 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0066, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,778 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0067, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,778 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0068, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,778 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0070, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,778 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0071, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0072, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0074, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0075, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0076, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0078, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0079, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: PROTOCOLO-80, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0082, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0083, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0084, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0086, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,779 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0087, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,780 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0088, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,780 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0090, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,780 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0091, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,780 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0092, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,780 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0094, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,780 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0095, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,780 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0096, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,780 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0098, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,780 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0099, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,781 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0100, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,781 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0102, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,781 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0103, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,781 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0104, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,781 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0106, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,781 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0107, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,781 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0108, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,781 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0110, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,781 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0111, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,782 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0112, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,782 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0114, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,782 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0115, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,782 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0116, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,782 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0118, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,782 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0119, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,782 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0120, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,782 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0122, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,782 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0123, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,783 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0124, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,783 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0126, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,783 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0127, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,783 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0128, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,783 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0130, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,783 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0131, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,783 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0132, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,783 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0134, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,784 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0135, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,784 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0136, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,784 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0138, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,784 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0139, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,784 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0140, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,784 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0142, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,784 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0143, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,784 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0144, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,784 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0146, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,784 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0147, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,785 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0148, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,785 - WARNING - Registro rejeitado. Protocolo: SUP-2026-0150, Motivo: Campos essenciais inválidos ou e-mail malformado.
-2026-08-15 19:25:01,787 - INFO - Gerando gráficos (Matplotlib)...
-2026-08-15 19:25:02,104 - INFO - Exportando dados limpos e resumo JSON...
-2026-08-15 19:25:02,107 - INFO - Processamento concluído com sucesso. Cheque a pasta /output.
+2026-08-15 20:36:08,131 - INFO - ============================================================
+2026-08-15 20:36:08,131 - INFO - INÍCIO DE UMA NOVA EXECUÇÃO
+2026-08-15 20:36:08,131 - INFO - ============================================================
+2026-08-15 20:36:08,131 - INFO - Carregando mapa de categorias...
+2026-08-15 20:36:08,131 - INFO - Extraindo informações do TXT...
+2026-08-15 20:36:08,132 - INFO - Telefones/Protocolos extraídos: 3
+2026-08-15 20:36:08,132 - INFO - Processando base de dados CSV...
+2026-08-15 20:36:08,138 - WARNING - Rejeitado [SUP-2026-0002] -> Motivo: Data inválida (Tentou ler: '03-07-2026')
+2026-08-15 20:36:08,139 - WARNING - Rejeitado [SUP-2026-0003] -> Motivo: Data inválida (Tentou ler: '2026/07/04')
+2026-08-15 20:36:08,139 - WARNING - Rejeitado [SUP-2026-0004] -> Motivo: Data inválida (Tentou ler: '05/07/2026')
+2026-08-15 20:36:08,139 - WARNING - Rejeitado [SUP-2026-0006] -> Motivo: Data inválida (Tentou ler: '07-07-2026')
+2026-08-15 20:36:08,139 - WARNING - Rejeitado [SUP-2026-0007] -> Motivo: Data inválida (Tentou ler: '2026/07/08')
+2026-08-15 20:36:08,139 - WARNING - Rejeitado [SUP-2026-0008] -> Motivo: Data inválida (Tentou ler: '09/07/2026')
+2026-08-15 20:36:08,139 - WARNING - Rejeitado [SUP-2026-0010] -> Motivo: Data inválida (Tentou ler: '11-07-2026') + E-mail malformado ('email-invalido')
+2026-08-15 20:36:08,139 - WARNING - Rejeitado [SUP-2026-0011] -> Motivo: Data inválida (Tentou ler: '2026/07/12')
+2026-08-15 20:36:08,140 - WARNING - Rejeitado [SUP-2026-0012] -> Motivo: Data inválida (Tentou ler: '13/07/2026')
+2026-08-15 20:36:08,140 - WARNING - Rejeitado [SUP-2026-0013] -> Motivo: Data inválida (Tentou ler: '2026-07-14')
+2026-08-15 20:36:08,140 - WARNING - Rejeitado [SUP-2026-0014] -> Motivo: Data inválida (Tentou ler: '15-07-2026')
+2026-08-15 20:36:08,140 - WARNING - Rejeitado [SUP-2026-0015] -> Motivo: Data inválida (Tentou ler: '2026/07/16')
+2026-08-15 20:36:08,140 - WARNING - Rejeitado [SUP-2026-0016] -> Motivo: Data inválida (Tentou ler: '17/07/2026')
+2026-08-15 20:36:08,140 - WARNING - Rejeitado [SUP-2026-0017] -> Motivo: Data inválida (Tentou ler: '2026-07-18')
+2026-08-15 20:36:08,140 - WARNING - Rejeitado [SUP-2026-0018] -> Motivo: Data inválida (Tentou ler: '19-07-2026')
+2026-08-15 20:36:08,141 - WARNING - Rejeitado [SUP-2026-0019] -> Motivo: Data inválida (Tentou ler: '2026/07/20')
+2026-08-15 20:36:08,141 - WARNING - Rejeitado [SUP-2026-0020] -> Motivo: Data inválida (Tentou ler: '31/02/2026')
+2026-08-15 20:36:08,141 - WARNING - Rejeitado [SUP-2026-0021] -> Motivo: Data inválida (Tentou ler: '2026-07-22')
+2026-08-15 20:36:08,141 - WARNING - Rejeitado [SUP-2026-0022] -> Motivo: Data inválida (Tentou ler: '23-07-2026')
+2026-08-15 20:36:08,141 - WARNING - Rejeitado [SUP-2026-0023] -> Motivo: Data inválida (Tentou ler: '2026/07/24')
+2026-08-15 20:36:08,141 - WARNING - Rejeitado [SUP-2026-0024] -> Motivo: Data inválida (Tentou ler: '25/07/2026')
+2026-08-15 20:36:08,141 - WARNING - Rejeitado [SUP-2026-0025] -> Motivo: Data inválida (Tentou ler: '2026-07-26')
+2026-08-15 20:36:08,141 - WARNING - Rejeitado [SUP-2026-0026] -> Motivo: Data inválida (Tentou ler: '27-07-2026')
+2026-08-15 20:36:08,141 - WARNING - Rejeitado [SUP-2026-0027] -> Motivo: Data inválida (Tentou ler: '2026/07/28')
+2026-08-15 20:36:08,142 - WARNING - Rejeitado [SUP-2026-0028] -> Motivo: Data inválida (Tentou ler: '29/07/2026')
+2026-08-15 20:36:08,142 - WARNING - Rejeitado [SUP-2026-0029] -> Motivo: Data inválida (Tentou ler: '2026-07-30')
+2026-08-15 20:36:08,142 - WARNING - Rejeitado [SUP-2026-0030] -> Motivo: Data inválida (Tentou ler: '31-07-2026')
+2026-08-15 20:36:08,142 - WARNING - Rejeitado [SUP-2026-0031] -> Motivo: Data inválida (Tentou ler: '2026/08/01')
+2026-08-15 20:36:08,142 - WARNING - Rejeitado [SUP-2026-0032] -> Motivo: Data inválida (Tentou ler: '02/08/2026')
+2026-08-15 20:36:08,142 - WARNING - Rejeitado [SUP-2026-0034] -> Motivo: Data inválida (Tentou ler: '04-08-2026')
+2026-08-15 20:36:08,143 - WARNING - Rejeitado [SUP-2026-0035] -> Motivo: Data inválida (Tentou ler: '2026/08/05')
+2026-08-15 20:36:08,143 - WARNING - Rejeitado [SUP-2026-0036] -> Motivo: Data inválida (Tentou ler: '06/08/2026')
+2026-08-15 20:36:08,143 - WARNING - Rejeitado [SUP-2026-0038] -> Motivo: Data inválida (Tentou ler: '08-08-2026')
+2026-08-15 20:36:08,143 - WARNING - Rejeitado [SUP-2026-0039] -> Motivo: Data inválida (Tentou ler: '2026/08/09')
+2026-08-15 20:36:08,143 - WARNING - Rejeitado [SUP-2026-0040] -> Motivo: Data inválida (Tentou ler: '01/07/2026')
+2026-08-15 20:36:08,143 - WARNING - Rejeitado [SUP-2026-0042] -> Motivo: Data inválida (Tentou ler: '03-07-2026')
+2026-08-15 20:36:08,143 - WARNING - Rejeitado [SUP-2026-0043] -> Motivo: Data inválida (Tentou ler: '2026/07/04')
+2026-08-15 20:36:08,143 - WARNING - Rejeitado [SUP-2026-0044] -> Motivo: Data inválida (Tentou ler: '05/07/2026')
+2026-08-15 20:36:08,143 - WARNING - Rejeitado [SUP-2026-0046] -> Motivo: Data inválida (Tentou ler: '07-07-2026')
+2026-08-15 20:36:08,144 - WARNING - Rejeitado [SUP-2026-0047] -> Motivo: Data inválida (Tentou ler: '2026/07/08')
+2026-08-15 20:36:08,144 - WARNING - Rejeitado [SUP-2026-0048] -> Motivo: Data inválida (Tentou ler: '09/07/2026')
+2026-08-15 20:36:08,144 - WARNING - Rejeitado [SUP-2026-0001] -> Motivo: Data inválida (Tentou ler: '11-07-2026')
+2026-08-15 20:36:08,144 - WARNING - Rejeitado [SUP-2026-0051] -> Motivo: Data inválida (Tentou ler: '2026/07/12')
+2026-08-15 20:36:08,144 - WARNING - Rejeitado [SUP-2026-0052] -> Motivo: Data inválida (Tentou ler: '13/07/2026')
+2026-08-15 20:36:08,144 - WARNING - Rejeitado [SUP-2026-0053] -> Motivo: Data inválida (Tentou ler: '2026-07-14')
+2026-08-15 20:36:08,144 - WARNING - Rejeitado [SUP-2026-0054] -> Motivo: Data inválida (Tentou ler: '15-07-2026')
+2026-08-15 20:36:08,145 - WARNING - Rejeitado [SUP-2026-0055] -> Motivo: Data inválida (Tentou ler: '2026/07/16')
+2026-08-15 20:36:08,145 - WARNING - Rejeitado [SUP-2026-0056] -> Motivo: Data inválida (Tentou ler: '17/07/2026')
+2026-08-15 20:36:08,145 - WARNING - Rejeitado [SUP-2026-0057] -> Motivo: Data inválida (Tentou ler: '2026-07-18')
+2026-08-15 20:36:08,145 - WARNING - Rejeitado [SUP-2026-0058] -> Motivo: Data inválida (Tentou ler: '19-07-2026')
+2026-08-15 20:36:08,145 - WARNING - Rejeitado [SUP-2026-0059] -> Motivo: Data inválida (Tentou ler: '2026/07/20')
+2026-08-15 20:36:08,145 - WARNING - Rejeitado [SUP-2026-0060] -> Motivo: Data inválida (Tentou ler: '21/07/2026') + E-mail malformado ('')
+2026-08-15 20:36:08,145 - WARNING - Rejeitado [SUP-2026-0061] -> Motivo: Data inválida (Tentou ler: '2026-07-22')
+2026-08-15 20:36:08,146 - WARNING - Rejeitado [SUP-2026-0062] -> Motivo: Data inválida (Tentou ler: '23-07-2026')
+2026-08-15 20:36:08,146 - WARNING - Rejeitado [SUP-2026-0063] -> Motivo: Data inválida (Tentou ler: '2026/07/24')
+2026-08-15 20:36:08,146 - WARNING - Rejeitado [SUP-2026-0064] -> Motivo: Data inválida (Tentou ler: '25/07/2026')
+2026-08-15 20:36:08,146 - WARNING - Rejeitado [SUP-2026-0065] -> Motivo: Data inválida (Tentou ler: '2026-07-26')
+2026-08-15 20:36:08,146 - WARNING - Rejeitado [SUP-2026-0066] -> Motivo: Data inválida (Tentou ler: '27-07-2026')
+2026-08-15 20:36:08,146 - WARNING - Rejeitado [SUP-2026-0067] -> Motivo: Data inválida (Tentou ler: '2026/07/28')
+2026-08-15 20:36:08,146 - WARNING - Rejeitado [SUP-2026-0068] -> Motivo: Data inválida (Tentou ler: '29/07/2026')
+2026-08-15 20:36:08,146 - WARNING - Rejeitado [SUP-2026-0069] -> Motivo: Data inválida (Tentou ler: '2026-07-30')
+2026-08-15 20:36:08,146 - WARNING - Rejeitado [SUP-2026-0070] -> Motivo: Data inválida (Tentou ler: '31-07-2026')
+2026-08-15 20:36:08,147 - WARNING - Rejeitado [SUP-2026-0071] -> Motivo: Data inválida (Tentou ler: '2026/08/01')
+2026-08-15 20:36:08,147 - WARNING - Rejeitado [SUP-2026-0072] -> Motivo: Data inválida (Tentou ler: '02/08/2026')
+2026-08-15 20:36:08,147 - WARNING - Rejeitado [SUP-2026-0074] -> Motivo: Data inválida (Tentou ler: '04-08-2026')
+2026-08-15 20:36:08,147 - WARNING - Rejeitado [SUP-2026-0075] -> Motivo: Data inválida (Tentou ler: '2026/08/05')
+2026-08-15 20:36:08,147 - WARNING - Rejeitado [SUP-2026-0076] -> Motivo: Data inválida (Tentou ler: '06/08/2026')
+2026-08-15 20:36:08,147 - WARNING - Rejeitado [SUP-2026-0078] -> Motivo: Data inválida (Tentou ler: '08-08-2026')
+2026-08-15 20:36:08,147 - WARNING - Rejeitado [SUP-2026-0079] -> Motivo: Data inválida (Tentou ler: '2026/08/09')
+2026-08-15 20:36:08,147 - WARNING - Rejeitado [PROTOCOLO-80] -> Motivo: Data inválida (Tentou ler: '01/07/2026')
+2026-08-15 20:36:08,147 - WARNING - Rejeitado [SUP-2026-0082] -> Motivo: Data inválida (Tentou ler: '03-07-2026')
+2026-08-15 20:36:08,147 - WARNING - Rejeitado [SUP-2026-0083] -> Motivo: Data inválida (Tentou ler: '2026/07/04')
+2026-08-15 20:36:08,148 - WARNING - Rejeitado [SUP-2026-0084] -> Motivo: Data inválida (Tentou ler: '05/07/2026')
+2026-08-15 20:36:08,148 - WARNING - Rejeitado [SUP-2026-0086] -> Motivo: Data inválida (Tentou ler: '07-07-2026')
+2026-08-15 20:36:08,148 - WARNING - Rejeitado [SUP-2026-0087] -> Motivo: Data inválida (Tentou ler: '2026/07/08')
+2026-08-15 20:36:08,148 - WARNING - Rejeitado [SUP-2026-0088] -> Motivo: Data inválida (Tentou ler: '09/07/2026')
+2026-08-15 20:36:08,148 - WARNING - Rejeitado [SUP-2026-0090] -> Motivo: Data inválida (Tentou ler: 'nan')
+2026-08-15 20:36:08,148 - WARNING - Rejeitado [SUP-2026-0091] -> Motivo: Data inválida (Tentou ler: '2026/07/12')
+2026-08-15 20:36:08,148 - WARNING - Rejeitado [SUP-2026-0092] -> Motivo: Data inválida (Tentou ler: '13/07/2026')
+2026-08-15 20:36:08,148 - WARNING - Rejeitado [SUP-2026-0093] -> Motivo: Data inválida (Tentou ler: '2026-07-14')
+2026-08-15 20:36:08,148 - WARNING - Rejeitado [SUP-2026-0094] -> Motivo: Data inválida (Tentou ler: '15-07-2026')
+2026-08-15 20:36:08,149 - WARNING - Rejeitado [SUP-2026-0095] -> Motivo: Data inválida (Tentou ler: '2026/07/16')
+2026-08-15 20:36:08,149 - WARNING - Rejeitado [SUP-2026-0096] -> Motivo: Data inválida (Tentou ler: '17/07/2026')
+2026-08-15 20:36:08,149 - WARNING - Rejeitado [SUP-2026-0097] -> Motivo: Data inválida (Tentou ler: '2026-07-18')
+2026-08-15 20:36:08,149 - WARNING - Rejeitado [SUP-2026-0098] -> Motivo: Data inválida (Tentou ler: '19-07-2026')
+2026-08-15 20:36:08,149 - WARNING - Rejeitado [SUP-2026-0099] -> Motivo: Data inválida (Tentou ler: '2026/07/20')
+2026-08-15 20:36:08,149 - WARNING - Rejeitado [SUP-2026-0100] -> Motivo: Data inválida (Tentou ler: '21/07/2026')
+2026-08-15 20:36:08,149 - WARNING - Rejeitado [SUP-2026-0101] -> Motivo: Data inválida (Tentou ler: '2026-07-22')
+2026-08-15 20:36:08,149 - WARNING - Rejeitado [SUP-2026-0102] -> Motivo: Data inválida (Tentou ler: '23-07-2026')
+2026-08-15 20:36:08,149 - WARNING - Rejeitado [SUP-2026-0103] -> Motivo: Data inválida (Tentou ler: '2026/07/24')
+2026-08-15 20:36:08,149 - WARNING - Rejeitado [SUP-2026-0104] -> Motivo: Data inválida (Tentou ler: '25/07/2026')
+2026-08-15 20:36:08,150 - WARNING - Rejeitado [SUP-2026-0105] -> Motivo: Data inválida (Tentou ler: '2026-07-26')
+2026-08-15 20:36:08,150 - WARNING - Rejeitado [SUP-2026-0106] -> Motivo: Data inválida (Tentou ler: '27-07-2026')
+2026-08-15 20:36:08,150 - WARNING - Rejeitado [SUP-2026-0107] -> Motivo: Data inválida (Tentou ler: '2026/07/28')
+2026-08-15 20:36:08,150 - WARNING - Rejeitado [SUP-2026-0108] -> Motivo: Data inválida (Tentou ler: '29/07/2026')
+2026-08-15 20:36:08,150 - WARNING - Rejeitado [SUP-2026-0109] -> Motivo: Data inválida (Tentou ler: '2026-07-30')
+2026-08-15 20:36:08,150 - WARNING - Rejeitado [SUP-2026-0110] -> Motivo: Data inválida (Tentou ler: '31-07-2026')
+2026-08-15 20:36:08,150 - WARNING - Rejeitado [SUP-2026-0111] -> Motivo: Data inválida (Tentou ler: '2026/08/01')
+2026-08-15 20:36:08,150 - WARNING - Rejeitado [SUP-2026-0112] -> Motivo: Data inválida (Tentou ler: '02/08/2026')
+2026-08-15 20:36:08,151 - WARNING - Rejeitado [SUP-2026-0114] -> Motivo: Data inválida (Tentou ler: '04-08-2026')
+2026-08-15 20:36:08,151 - WARNING - Rejeitado [SUP-2026-0115] -> Motivo: Data inválida (Tentou ler: '2026/08/05')
+2026-08-15 20:36:08,151 - WARNING - Rejeitado [SUP-2026-0116] -> Motivo: Data inválida (Tentou ler: '06/08/2026')
+2026-08-15 20:36:08,151 - WARNING - Rejeitado [SUP-2026-0118] -> Motivo: Data inválida (Tentou ler: '08-08-2026')
+2026-08-15 20:36:08,151 - WARNING - Rejeitado [SUP-2026-0119] -> Motivo: Data inválida (Tentou ler: '2026/08/09')
+2026-08-15 20:36:08,151 - WARNING - Rejeitado [SUP-2026-0120] -> Motivo: Data inválida (Tentou ler: '01/07/2026') + E-mail malformado ('nome@dominio')
+2026-08-15 20:36:08,151 - WARNING - Rejeitado [SUP-2026-0122] -> Motivo: Data inválida (Tentou ler: '03-07-2026')
+2026-08-15 20:36:08,151 - WARNING - Rejeitado [SUP-2026-0123] -> Motivo: Data inválida (Tentou ler: '2026/07/04')
+2026-08-15 20:36:08,152 - WARNING - Rejeitado [SUP-2026-0124] -> Motivo: Data inválida (Tentou ler: '05/07/2026')
+2026-08-15 20:36:08,152 - WARNING - Rejeitado [SUP-2026-0126] -> Motivo: Data inválida (Tentou ler: '07-07-2026')
+2026-08-15 20:36:08,152 - WARNING - Rejeitado [SUP-2026-0127] -> Motivo: Data inválida (Tentou ler: '2026/07/08')
+2026-08-15 20:36:08,152 - WARNING - Rejeitado [SUP-2026-0128] -> Motivo: Data inválida (Tentou ler: '09/07/2026')
+2026-08-15 20:36:08,152 - WARNING - Rejeitado [SUP-2026-0130] -> Motivo: Data inválida (Tentou ler: '11-07-2026')
+2026-08-15 20:36:08,152 - WARNING - Rejeitado [SUP-2026-0131] -> Motivo: Data inválida (Tentou ler: '2026/07/12')
+2026-08-15 20:36:08,152 - WARNING - Rejeitado [SUP-2026-0132] -> Motivo: Data inválida (Tentou ler: '13/07/2026')
+2026-08-15 20:36:08,152 - WARNING - Rejeitado [SUP-2026-0133] -> Motivo: Data inválida (Tentou ler: '2026-07-14')
+2026-08-15 20:36:08,152 - WARNING - Rejeitado [SUP-2026-0134] -> Motivo: Data inválida (Tentou ler: '15-07-2026')
+2026-08-15 20:36:08,152 - WARNING - Rejeitado [SUP-2026-0135] -> Motivo: Data inválida (Tentou ler: '2026/07/16')
+2026-08-15 20:36:08,152 - WARNING - Rejeitado [SUP-2026-0136] -> Motivo: Data inválida (Tentou ler: '17/07/2026')
+2026-08-15 20:36:08,153 - WARNING - Rejeitado [SUP-2026-0137] -> Motivo: Data inválida (Tentou ler: '2026-07-18')
+2026-08-15 20:36:08,153 - WARNING - Rejeitado [SUP-2026-0138] -> Motivo: Data inválida (Tentou ler: '19-07-2026')
+2026-08-15 20:36:08,153 - WARNING - Rejeitado [SUP-2026-0139] -> Motivo: Data inválida (Tentou ler: '2026/07/20')
+2026-08-15 20:36:08,153 - WARNING - Rejeitado [SUP-2026-0140] -> Motivo: Data inválida (Tentou ler: '21/07/2026')
+2026-08-15 20:36:08,153 - WARNING - Rejeitado [SUP-2026-0141] -> Motivo: Data inválida (Tentou ler: '2026-07-22')
+2026-08-15 20:36:08,153 - WARNING - Rejeitado [SUP-2026-0142] -> Motivo: Data inválida (Tentou ler: '23-07-2026')
+2026-08-15 20:36:08,153 - WARNING - Rejeitado [SUP-2026-0143] -> Motivo: Data inválida (Tentou ler: '2026/07/24')
+2026-08-15 20:36:08,153 - WARNING - Rejeitado [SUP-2026-0144] -> Motivo: Data inválida (Tentou ler: '25/07/2026')
+2026-08-15 20:36:08,153 - WARNING - Rejeitado [SUP-2026-0145] -> Motivo: Data inválida (Tentou ler: '2026-07-26')
+2026-08-15 20:36:08,154 - WARNING - Rejeitado [SUP-2026-0146] -> Motivo: Data inválida (Tentou ler: '27-07-2026')
+2026-08-15 20:36:08,154 - WARNING - Rejeitado [SUP-2026-0147] -> Motivo: Data inválida (Tentou ler: '2026/07/28')
+2026-08-15 20:36:08,154 - WARNING - Rejeitado [SUP-2026-0148] -> Motivo: Data inválida (Tentou ler: '29/07/2026')
+2026-08-15 20:36:08,154 - WARNING - Rejeitado [SUP-2026-0149] -> Motivo: Data inválida (Tentou ler: '2026-07-30')
+2026-08-15 20:36:08,154 - WARNING - Rejeitado [SUP-2026-0150] -> Motivo: Data inválida (Tentou ler: '31-07-2026')
+2026-08-15 20:36:08,157 - INFO - Gerando gráficos (Matplotlib)...
+2026-08-15 20:36:08,434 - INFO - Exportando dados limpos e resumo JSON...
+2026-08-15 20:36:08,437 - INFO - Processamento concluído com sucesso. Cheque a pasta /output.
+2026-08-15 20:36:08,437 - INFO - ------------------------------------------------------------
+2026-08-15 20:36:08,437 - INFO - FIM DA EXECUÇÃO
+2026-08-15 20:36:08,437 - INFO - ------------------------------------------------------------
+
+2026-08-15 20:37:48,913 - INFO - ============================================================
+2026-08-15 20:37:48,913 - INFO - INÍCIO DE UMA NOVA EXECUÇÃO
+2026-08-15 20:37:48,913 - INFO - ============================================================
+2026-08-15 20:37:48,913 - INFO - Carregando mapa de categorias...
+2026-08-15 20:37:48,914 - INFO - Extraindo informações do TXT...
+2026-08-15 20:37:48,914 - INFO - Telefones/Protocolos extraídos: 3
+2026-08-15 20:37:48,914 - INFO - Processando base de dados CSV...
+2026-08-15 20:37:48,921 - WARNING - Rejeitado [SUP-2026-0010] -> Motivo: E-mail malformado ('email-invalido')
+2026-08-15 20:37:48,921 - WARNING - Rejeitado [SUP-2026-0020] -> Motivo: Data inválida (Tentou ler: '31/02/2026')
+2026-08-15 20:37:48,921 - WARNING - Rejeitado [SUP-2026-0060] -> Motivo: E-mail malformado ('')
+2026-08-15 20:37:48,921 - WARNING - Rejeitado [SUP-2026-0090] -> Motivo: Data inválida (Tentou ler: 'nan')
+2026-08-15 20:37:48,921 - WARNING - Rejeitado [SUP-2026-0120] -> Motivo: E-mail malformado ('nome@dominio')
+2026-08-15 20:37:48,924 - INFO - Gerando gráficos (Matplotlib)...
+2026-08-15 20:37:49,202 - INFO - Exportando dados limpos e resumo JSON...
+2026-08-15 20:37:49,205 - INFO - Processamento concluído com sucesso. Cheque a pasta /output.
+2026-08-15 20:37:49,206 - INFO - ------------------------------------------------------------
+2026-08-15 20:37:49,206 - INFO - FIM DA EXECUÇÃO
+2026-08-15 20:37:49,206 - INFO - ------------------------------------------------------------
+
+2026-08-15 20:43:02,701 - INFO - ============================================================
+2026-08-15 20:43:02,702 - INFO - INÍCIO DE UMA NOVA EXECUÇÃO
+2026-08-15 20:43:02,702 - INFO - ============================================================
+2026-08-15 20:43:02,702 - INFO - Carregando mapa de categorias...
+2026-08-15 20:43:02,702 - ERROR - Arquivo de categorias não encontrado: data/categorias.json
+2026-08-15 20:43:02,702 - INFO - Extraindo informações do TXT...
+2026-08-15 20:43:02,702 - WARNING - Arquivo de observações não encontrado: data/observacoes.txt
+2026-08-15 20:43:02,702 - INFO - Telefones/Protocolos extraídos: 0
+2026-08-15 20:43:02,702 - INFO - Processando base de dados CSV...
+2026-08-15 20:43:02,703 - ERROR - Erro fatal ao ler o CSV: [Errno 2] No such file or directory: 'data/atendimentos.csv'
+2026-08-15 20:43:02,703 - WARNING - Não há dados válidos para gerar relatórios.
+2026-08-15 20:43:02,703 - INFO - ------------------------------------------------------------
+2026-08-15 20:43:02,703 - INFO - FIM DA EXECUÇÃO
+2026-08-15 20:43:02,703 - INFO - ------------------------------------------------------------
+
+2026-08-15 20:47:37,973 - INFO - ============================================================
+2026-08-15 20:47:37,973 - INFO - INÍCIO DE UMA NOVA EXECUÇÃO
+2026-08-15 20:47:37,973 - INFO - ============================================================
+2026-08-15 20:47:37,973 - INFO - Carregando mapa de categorias...
+2026-08-15 20:47:37,973 - WARNING - Arquivo de categorias não encontrado: data/categorias.json
+2026-08-15 20:47:37,973 - INFO - Extraindo informações do TXT...
+2026-08-15 20:47:37,973 - WARNING - Arquivo de observações não encontrado: data/observacoes.txt
+2026-08-15 20:47:37,973 - INFO - Telefones/Protocolos extraídos: 0
+2026-08-15 20:47:37,973 - INFO - Processando base de dados CSV...
+2026-08-15 20:47:37,974 - ERROR - Arquivo CSV não encontrado: 'data/atendimentos.csv'. Verifique o caminho.
+2026-08-15 20:47:37,974 - WARNING - Não há dados válidos para gerar relatórios.
+2026-08-15 20:47:37,974 - INFO - ------------------------------------------------------------
+2026-08-15 20:47:37,974 - INFO - FIM DA EXECUÇÃO
+2026-08-15 20:47:37,974 - INFO - ------------------------------------------------------------
+
+2026-08-15 20:47:54,834 - INFO - ============================================================
+2026-08-15 20:47:54,835 - INFO - INÍCIO DE UMA NOVA EXECUÇÃO
+2026-08-15 20:47:54,835 - INFO - ============================================================
+2026-08-15 20:47:54,835 - INFO - Carregando mapa de categorias...
+2026-08-15 20:47:54,835 - WARNING - Arquivo de categorias não encontrado: data/categorias.json
+2026-08-15 20:47:54,835 - INFO - Extraindo informações do TXT...
+2026-08-15 20:47:54,835 - WARNING - Arquivo de observações não encontrado: data/observacoes.txt
+2026-08-15 20:47:54,835 - INFO - Telefones/Protocolos extraídos: 0
+2026-08-15 20:47:54,835 - INFO - Processando base de dados CSV...
+2026-08-15 20:47:54,836 - WARNING - Arquivo CSV não encontrado: 'data/atendimentos.csv'. Verifique o caminho.
+2026-08-15 20:47:54,836 - WARNING - Não há dados válidos para gerar relatórios.
+2026-08-15 20:47:54,836 - INFO - ------------------------------------------------------------
+2026-08-15 20:47:54,836 - INFO - FIM DA EXECUÇÃO
+2026-08-15 20:47:54,836 - INFO - ------------------------------------------------------------
+
+2026-08-15 20:58:07,157 - INFO - ============================================================
+2026-08-15 20:58:07,158 - INFO - INÍCIO DE UMA NOVA EXECUÇÃO
+2026-08-15 20:58:07,158 - INFO - ============================================================
+2026-08-15 20:58:07,158 - INFO - Carregando mapa de categorias...
+2026-08-15 20:58:07,158 - INFO - Extraindo informações do TXT...
+2026-08-15 20:58:07,158 - INFO - Telefones/Protocolos extraídos: 3
+2026-08-15 20:58:07,158 - INFO - Processando base de dados CSV...
+2026-08-15 20:58:07,166 - WARNING - Rejeitado [SUP-2026-0010] -> Motivo: E-mail malformado ('email-invalido')
+2026-08-15 20:58:07,166 - WARNING - Rejeitado [SUP-2026-0020] -> Motivo: Data inválida (Tentou ler: '31/02/2026')
+2026-08-15 20:58:07,166 - WARNING - Rejeitado [SUP-2026-0060] -> Motivo: E-mail malformado ('')
+2026-08-15 20:58:07,166 - WARNING - Rejeitado [SUP-2026-0090] -> Motivo: Data inválida (Tentou ler: 'nan')
+2026-08-15 20:58:07,166 - WARNING - Rejeitado [SUP-2026-0120] -> Motivo: E-mail malformado ('nome@dominio')
+2026-08-15 20:58:07,169 - INFO - Gerando gráficos (Matplotlib)...
+2026-08-15 20:58:07,471 - INFO - Exportando dados limpos e resumo JSON...
+2026-08-15 20:58:07,474 - INFO - Processamento concluído com sucesso. Cheque a pasta /output.
+2026-08-15 20:58:07,474 - INFO - ------------------------------------------------------------
+2026-08-15 20:58:07,474 - INFO - FIM DA EXECUÇÃO
+2026-08-15 20:58:07,474 - INFO - ------------------------------------------------------------
+
+2026-08-15 21:06:30,050 - INFO - ============================================================
+2026-08-15 21:06:30,050 - INFO - INÍCIO DE UMA NOVA EXECUÇÃO
+2026-08-15 21:06:30,051 - INFO - ============================================================
+2026-08-15 21:06:30,051 - INFO - Carregando mapa de categorias...
+2026-08-15 21:06:30,051 - INFO - Extraindo informações do TXT...
+2026-08-15 21:06:30,051 - INFO - Telefones/Protocolos extraídos: 3
+2026-08-15 21:06:30,051 - INFO - Processando base de dados CSV...
+2026-08-15 21:06:30,058 - WARNING - Rejeitado [SUP-2026-0010] -> Motivo: E-mail malformado ('email-invalido')
+2026-08-15 21:06:30,058 - WARNING - Rejeitado [SUP-2026-0020] -> Motivo: Data inválida ('31/02/2026')
+2026-08-15 21:06:30,058 - WARNING - Rejeitado [SUP-2026-0060] -> Motivo: E-mail malformado ('')
+2026-08-15 21:06:30,058 - WARNING - Rejeitado [SUP-2026-0090] -> Motivo: Data inválida ('nan')
+2026-08-15 21:06:30,058 - WARNING - Rejeitado [SUP-2026-0120] -> Motivo: E-mail malformado ('nome@dominio')
+2026-08-15 21:06:30,062 - INFO - Gerando gráficos (Matplotlib)...
+2026-08-15 21:06:30,339 - INFO - Exportando dados limpos e resumo JSON...
+2026-08-15 21:06:30,342 - INFO - Processamento concluído com sucesso. Cheque a pasta /output.
+2026-08-15 21:06:30,342 - INFO - ------------------------------------------------------------
+2026-08-15 21:06:30,342 - INFO - FIM DA EXECUÇÃO
+2026-08-15 21:06:30,342 - INFO - ------------------------------------------------------------
+

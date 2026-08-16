@@ -30,6 +30,10 @@ def main():
         dir_saida = garantir_diretorios(config)
         configurar_logging(dir_saida)
 
+        logging.info("=" * 60)
+        logging.info("INÍCIO DE UMA NOVA EXECUÇÃO")
+        logging.info("=" * 60)
+
         logging.info("Carregando mapa de categorias...")
         mapa_categorias = ler_categorias(config.get("arquivo_categorias"))
 
@@ -57,6 +61,10 @@ def main():
     except Exception as e:
         logging.critical(f"Erro inesperado no sistema: {e}")
 
+    finally:
+        logging.info("-" * 60)
+        logging.info("FIM DA EXECUÇÃO")
+        logging.info("-" * 60 + "\n")
 
 if __name__ == "__main__":
     main()

@@ -15,15 +15,32 @@ class ConfiguracaoCaminhos(TypedDict):
 
 
 def ler_configuracoes() -> ConfiguracaoCaminhos:
-    """Lê as configurações armazenadas em JSON."""
+    """Lê as configurações armazenadas em JSON ou usa um padrão se falhar."""
 
     if not os.path.exists(CAMINHO_CONFIG):
-        raise FileNotFoundError(
-            f"Arquivo de configuração não encontrado: {CAMINHO_CONFIG}"
-        )
+        print(f"AVISO: Arquivo de configuração não encontrado em '{CAMINHO_CONFIG}'.")
+        print("Carregando configurações padrão do sistema...")
+        return {
+            "arquivo_atendimentos": "data/atendimentos.csv",
+            "arquivo_categorias": "data/categorias.json",
+            "arquivo_observacoes": "data/observacoes.txt",
+            "diretorio_saida": "output",
+            "separador_csv": ";"
+        }
 
-    with open(CAMINHO_CONFIG, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(CAMINHO_CONFIG, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"AVISO: O arquivo de configuração está corrompido ({e}).")
+        print("Carregando configurações padrão do sistema...")
+        return {
+            "arquivo_atendimentos": "data/atendimentos.csv",
+            "arquivo_categorias": "data/categorias.json",
+            "arquivo_observacoes": "data/observacoes.txt",
+            "diretorio_saida": "output",
+            "separador_csv": ";"
+        }
 
 
 def garantir_diretorios(config):
@@ -42,7 +59,7 @@ def ler_categorias(caminho_categorias):
     """Lê o arquivo de categorias."""
 
     if not os.path.exists(caminho_categorias):
-        logging.error(f"Arquivo não encontrado: {caminho_categorias}")
+        logging.warning(f"Arquivo de categorias não encontrado: {caminho_categorias}")
         return {}
     
     with open(caminho_categorias, "r", encoding="utf-8") as f:

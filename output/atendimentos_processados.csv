@@ -1,150 +1,150 @@
-protocolo;data;email;categoria;status;tempo_minutos;descricao;email_valido;registro_valido;categoria_padronizada;tempo_normalizado
-SUP-2026-0002;;aluno2@example.com;SOFTWARE;Em andamento;40.0; Solicitação de suporte número 2  ;True;False;Instalação de programas;0.02729528535980149
-SUP-2026-0003;;aluno3@example.com;Ambiente Virtual;Aberto;156.0; Solicitação de suporte número 3  ;True;False;Acesso ao AVA;0.084863523573201
-SUP-2026-0004;;aluno4@example.com;senha;Aberto;12.0; Solicitação de suporte número 4  ;True;False;Senha;0.013399503722084368
-SUP-2026-0005;2026-07-06;aluno5@example.com;Ambiente Virtual;Em andamento;64.0; Solicitação de suporte número 5  ;True;True;Acesso ao AVA;0.039205955334987594
-SUP-2026-0006;;aluno6@example.com;atividade;Aberto;148.0; Solicitação de suporte número 6  ;True;False;Execução de atividades;0.08089330024813896
-SUP-2026-0007;;aluno7@example.com;SOFTWARE;Resolvido;61.0; Solicitação de suporte número 7  ;True;False;Instalação de programas;0.03771712158808933
-SUP-2026-0008;;aluno8@example.com;PASSWORD;Resolvido;6.0; Solicitação de suporte número 8  ;True;False;Senha;0.010421836228287842
-SUP-2026-0009;2026-07-10;aluno9@example.com;instalação;Resolvido;92.0; Solicitação de suporte número 9  ;True;True;Instalação de programas;0.05310173697270471
-SUP-2026-0010;;email-invalido;python;Em andamento;60.0; Solicitação de suporte número 10  ;False;False;Configuração do Python;0.03722084367245657
-SUP-2026-0011;;aluno11@example.com;Config Python;Aberto;28.0; Solicitação de suporte número 11  ;True;False;Configuração do Python;0.021339950372208438
-SUP-2026-0012;;aluno12@example.com;senha;Aberto;96.0; Solicitação de suporte número 12  ;True;False;Senha;0.05508684863523573
-SUP-2026-0013;2026-07-14;aluno13@example.com;Config Python;Resolvido;16.0; Solicitação de suporte número 13  ;True;True;Configuração do Python;0.015384615384615385
-SUP-2026-0014;;aluno14@example.com;PASSWORD;Aberto;101.0; Solicitação de suporte número 14  ;True;False;Senha;0.05756823821339951
-SUP-2026-0015;;aluno15@example.com;Ambiente Virtual;Resolvido;165.0; Solicitação de suporte número 15  ;True;False;Acesso ao AVA;0.08933002481389578
-SUP-2026-0016;;aluno16@example.com;Execução;Resolvido;152.0; Solicitação de suporte número 16  ;True;False;Execução de atividades;0.08287841191066997
-SUP-2026-0017;2026-07-18;aluno17@example.com;SOFTWARE;Aberto;16.0; Solicitação de suporte número 17  ;True;True;Instalação de programas;0.015384615384615385
-SUP-2026-0018;;aluno18@example.com;SOFTWARE;Resolvido;25.0; Solicitação de suporte número 18  ;True;False;Instalação de programas;0.019851116625310174
-SUP-2026-0019;;aluno19@example.com;SOFTWARE;Aberto;102.0; Solicitação de suporte número 19  ;True;False;Instalação de programas;0.05806451612903226
-SUP-2026-0020;;aluno20@example.com;python;Resolvido;167.0; Solicitação de suporte número 20  ;True;False;Configuração do Python;0.09032258064516129
-SUP-2026-0021;2026-07-22;aluno21@example.com;Config Python;Em andamento;99.0; Solicitação de suporte número 21  ;True;True;Configuração do Python;0.05657568238213399
-SUP-2026-0022;;aluno22@example.com;Config Python;Em andamento;176.0; Solicitação de suporte número 22  ;True;False;Configuração do Python;0.09478908188585608
-SUP-2026-0023;;aluno23@example.com;python;Aberto;160.0; Solicitação de suporte número 23  ;True;False;Configuração do Python;0.08684863523573201
-SUP-2026-0024;;aluno24@example.com;instalação;Em andamento;46.0; Solicitação de suporte número 24  ;True;False;Instalação de programas;0.030272952853598014
-SUP-2026-0025;2026-07-26;aluno25@example.com;PASSWORD;Resolvido;74.0; Solicitação de suporte número 25  ;True;True;Senha;0.044168734491315136
-SUP-2026-0026;;aluno26@example.com;atividade;Em andamento;180.0; Solicitação de suporte número 26  ;True;False;Execução de atividades;0.0967741935483871
-SUP-2026-0027;;aluno27@example.com;Config Python;Aberto;63.0; Solicitação de suporte número 27  ;True;False;Configuração do Python;0.03870967741935484
-SUP-2026-0028;;aluno28@example.com;ava;Resolvido;107.0; Solicitação de suporte número 28  ;True;False;Acesso ao AVA;0.06054590570719603
-SUP-2026-0029;2026-07-30;aluno29@example.com;python;Aberto;59.0; Solicitação de suporte número 29  ;True;True;Configuração do Python;0.03672456575682382
-SUP-2026-0030;;aluno30@example.com;Execução;Resolvido;-15.0; Solicitação de suporte número 30  ;True;False;Execução de atividades;0.0
-SUP-2026-0031;;aluno31@example.com;PASSWORD;Resolvido;169.0; Solicitação de suporte número 31  ;True;False;Senha;0.0913151364764268
-SUP-2026-0032;;aluno32@example.com;PASSWORD;Em andamento;72.0; Solicitação de suporte número 32  ;True;False;Senha;0.04317617866004963
-SUP-2026-0033;2026-08-03;aluno33@example.com;instalação;Em andamento;148.0; Solicitação de suporte número 33  ;True;True;Instalação de programas;0.08089330024813896
-SUP-2026-0034;;aluno34@example.com;atividade;Resolvido;154.0; Solicitação de suporte número 34  ;True;False;Execução de atividades;0.08387096774193549
-SUP-2026-0035;;aluno35@example.com;senha;Resolvido;97.0; Solicitação de suporte número 35  ;True;False;Senha;0.055583126550868486
-SUP-2026-0036;;aluno36@example.com;SOFTWARE;Em andamento;135.0; Solicitação de suporte número 36  ;True;False;Instalação de programas;0.07444168734491315
-SUP-2026-0037;2026-08-07;aluno37@example.com;PASSWORD;Aberto;17.0; Solicitação de suporte número 37  ;True;True;Senha;0.01588089330024814
-SUP-2026-0038;;aluno38@example.com;Ambiente Virtual;Em andamento;165.0; Solicitação de suporte número 38  ;True;False;Acesso ao AVA;0.08933002481389578
-SUP-2026-0039;;aluno39@example.com;instalação;Resolvido;157.0; Solicitação de suporte número 39  ;True;False;Instalação de programas;0.08535980148883375
-SUP-2026-0040;;aluno40@example.com;categoria inexistente;Resolvido;102.0; Solicitação de suporte número 40  ;True;False;Outros;0.05806451612903226
-SUP-2026-0041;2026-07-02;aluno41@example.com;Execução;Resolvido;140.0; Solicitação de suporte número 41  ;True;True;Execução de atividades;0.07692307692307693
-SUP-2026-0042;;aluno42@example.com;python;Aberto;179.0; Solicitação de suporte número 42  ;True;False;Configuração do Python;0.09627791563275434
-SUP-2026-0043;;aluno43@example.com;Ambiente Virtual;Resolvido;169.0; Solicitação de suporte número 43  ;True;False;Acesso ao AVA;0.0913151364764268
-SUP-2026-0044;;aluno44@example.com;Config Python;Aberto;80.0; Solicitação de suporte número 44  ;True;False;Configuração do Python;0.04714640198511166
-SUP-2026-0045;2026-07-06;aluno45@example.com;senha;Em andamento;121.0; Solicitação de suporte número 45  ;True;True;Senha;0.0674937965260546
-SUP-2026-0046;;aluno46@example.com;ava;Resolvido;133.0; Solicitação de suporte número 46  ;True;False;Acesso ao AVA;0.07344913151364764
-SUP-2026-0047;;aluno47@example.com;instalação;Aberto;165.0; Solicitação de suporte número 47  ;True;False;Instalação de programas;0.08933002481389578
-SUP-2026-0048;;aluno48@example.com;python;Em andamento;44.0; Solicitação de suporte número 48  ;True;False;Configuração do Python;0.029280397022332507
-SUP-2026-0049;2026-07-10;aluno49@example.com;Config Python;Em andamento;143.0; Solicitação de suporte número 49  ;True;True;Configuração do Python;0.07841191066997519
-SUP-2026-0001;;aluno50@example.com;atividade;Aberto;158.0; Solicitação de suporte número 50  ;True;False;Execução de atividades;0.0858560794044665
-SUP-2026-0051;;aluno51@example.com;Config Python;Resolvido;9.0; Solicitação de suporte número 51  ;True;False;Configuração do Python;0.011910669975186104
-SUP-2026-0052;;aluno52@example.com;Ambiente Virtual;Resolvido;83.0; Solicitação de suporte número 52  ;True;False;Acesso ao AVA;0.048635235732009924
-SUP-2026-0053;2026-07-14;aluno53@example.com;SOFTWARE;Aberto;66.0; Solicitação de suporte número 53  ;True;True;Instalação de programas;0.0401985111662531
-SUP-2026-0054;;aluno54@example.com;Execução;Aberto;26.0; Solicitação de suporte número 54  ;True;False;Execução de atividades;0.020347394540942927
-SUP-2026-0055;;aluno55@example.com;PASSWORD;Aberto;141.0; Solicitação de suporte número 55  ;True;False;Senha;0.07741935483870968
-SUP-2026-0056;;aluno56@example.com;instalação;Em andamento;173.0; Solicitação de suporte número 56  ;True;False;Instalação de programas;0.09330024813895782
-SUP-2026-0057;2026-07-18;aluno57@example.com;PASSWORD;Em andamento;72.0; Solicitação de suporte número 57  ;True;True;Senha;0.04317617866004963
-SUP-2026-0058;;aluno58@example.com;atividade;Resolvido;59.0; Solicitação de suporte número 58  ;True;False;Execução de atividades;0.03672456575682382
-SUP-2026-0059;;aluno59@example.com;atividade;Em andamento;84.0; Solicitação de suporte número 59  ;True;False;Execução de atividades;0.04913151364764268
-SUP-2026-0060;;;senha;Resolvido;117.0; Solicitação de suporte número 60  ;False;False;Senha;0.06550868486352357
-SUP-2026-0061;2026-07-22;aluno61@example.com;atividade;Resolvido;35.0; Solicitação de suporte número 61  ;True;True;Execução de atividades;0.02481389578163772
-SUP-2026-0062;;aluno62@example.com;SOFTWARE;Em andamento;21.0; Solicitação de suporte número 62  ;True;False;Instalação de programas;0.017866004962779156
-SUP-2026-0063;;aluno63@example.com;Config Python;Aberto;155.0; Solicitação de suporte número 63  ;True;False;Configuração do Python;0.08436724565756824
-SUP-2026-0064;;aluno64@example.com;atividade;Em andamento;155.0; Solicitação de suporte número 64  ;True;False;Execução de atividades;0.08436724565756824
-SUP-2026-0065;2026-07-26;aluno65@example.com;SOFTWARE;Aberto;23.0; Solicitação de suporte número 65  ;True;True;Instalação de programas;0.018858560794044667
-SUP-2026-0066;;aluno66@example.com;ava;Em andamento;22.0; Solicitação de suporte número 66  ;True;False;Acesso ao AVA;0.01836228287841191
-SUP-2026-0067;;aluno67@example.com;ava;Resolvido;23.0; Solicitação de suporte número 67  ;True;False;Acesso ao AVA;0.018858560794044667
-SUP-2026-0068;;aluno68@example.com;atividade;Em andamento;76.0; Solicitação de suporte número 68  ;True;False;Execução de atividades;0.04516129032258064
-SUP-2026-0069;2026-07-30;aluno69@example.com;PASSWORD;Em andamento;143.0; Solicitação de suporte número 69  ;True;True;Senha;0.07841191066997519
-SUP-2026-0070;;aluno70@example.com;instalação;Resolvido;; Solicitação de suporte número 70  ;True;False;Instalação de programas;
-SUP-2026-0071;;aluno71@example.com;PASSWORD;Resolvido;53.0; Solicitação de suporte número 71  ;True;False;Senha;0.0337468982630273
-SUP-2026-0072;;aluno72@example.com;Ambiente Virtual;Aberto;173.0; Solicitação de suporte número 72  ;True;False;Acesso ao AVA;0.09330024813895782
-SUP-2026-0073;2026-08-03;aluno73@example.com;senha;Resolvido;113.0; Solicitação de suporte número 73  ;True;True;Senha;0.06352357320099256
-SUP-2026-0074;;aluno74@example.com;senha;Resolvido;18.0; Solicitação de suporte número 74  ;True;False;Senha;0.016377171215880892
-SUP-2026-0075;;aluno75@example.com;Ambiente Virtual;Aberto;108.0; Solicitação de suporte número 75  ;True;False;Acesso ao AVA;0.06104218362282878
-SUP-2026-0076;;aluno76@example.com;Config Python;Aberto;68.0; Solicitação de suporte número 76  ;True;False;Configuração do Python;0.04119106699751861
-SUP-2026-0077;2026-08-07;aluno77@example.com;SOFTWARE;Em andamento;142.0; Solicitação de suporte número 77  ;True;True;Instalação de programas;0.07791563275434243
-SUP-2026-0078;;aluno78@example.com;PASSWORD;Em andamento;113.0; Solicitação de suporte número 78  ;True;False;Senha;0.06352357320099256
-SUP-2026-0079;;aluno79@example.com;instalação;Resolvido;123.0; Solicitação de suporte número 79  ;True;False;Instalação de programas;0.0684863523573201
-PROTOCOLO-80;;aluno80@example.com;SOFTWARE;Aberto;118.0; Solicitação de suporte número 80  ;True;False;Instalação de programas;0.06600496277915632
-SUP-2026-0081;2026-07-02;aluno81@example.com;atividade;Aberto;17.0; Solicitação de suporte número 81  ;True;True;Execução de atividades;0.01588089330024814
-SUP-2026-0082;;aluno82@example.com;atividade;Aberto;28.0; Solicitação de suporte número 82  ;True;False;Execução de atividades;0.021339950372208438
-SUP-2026-0083;;aluno83@example.com;SOFTWARE;Em andamento;109.0; Solicitação de suporte número 83  ;True;False;Instalação de programas;0.06153846153846154
-SUP-2026-0084;;aluno84@example.com;PASSWORD;Resolvido;59.0; Solicitação de suporte número 84  ;True;False;Senha;0.03672456575682382
-SUP-2026-0085;2026-07-06;aluno85@example.com;senha;Aberto;47.0; Solicitação de suporte número 85  ;True;True;Senha;0.03076923076923077
-SUP-2026-0086;;aluno86@example.com;senha;Aberto;104.0; Solicitação de suporte número 86  ;True;False;Senha;0.05905707196029777
-SUP-2026-0087;;aluno87@example.com;python;Resolvido;78.0; Solicitação de suporte número 87  ;True;False;Configuração do Python;0.046153846153846156
-SUP-2026-0088;;aluno88@example.com;senha;Resolvido;44.0; Solicitação de suporte número 88  ;True;False;Senha;0.029280397022332507
-SUP-2026-0089;2026-07-10;aluno89@example.com;SOFTWARE;Resolvido;60.0; Solicitação de suporte número 89  ;True;True;Instalação de programas;0.03722084367245657
-SUP-2026-0090;;aluno90@example.com;ava;Aberto;85.0; Solicitação de suporte número 90  ;True;False;Acesso ao AVA;0.04962779156327544
-SUP-2026-0091;;aluno91@example.com;ava;Aberto;154.0; Solicitação de suporte número 91  ;True;False;Acesso ao AVA;0.08387096774193549
-SUP-2026-0092;;aluno92@example.com;PASSWORD;Em andamento;19.0; Solicitação de suporte número 92  ;True;False;Senha;0.01687344913151365
-SUP-2026-0093;2026-07-14;aluno93@example.com;atividade;Aberto;52.0; Solicitação de suporte número 93  ;True;True;Execução de atividades;0.03325062034739454
-SUP-2026-0094;;aluno94@example.com;Ambiente Virtual;Aberto;177.0; Solicitação de suporte número 94  ;True;False;Acesso ao AVA;0.09528535980148883
-SUP-2026-0095;;aluno95@example.com;SOFTWARE;Resolvido;35.0; Solicitação de suporte número 95  ;True;False;Instalação de programas;0.02481389578163772
-SUP-2026-0096;;aluno96@example.com;Execução;Em andamento;153.0; Solicitação de suporte número 96  ;True;False;Execução de atividades;0.08337468982630274
-SUP-2026-0097;2026-07-18;aluno97@example.com;Execução;Aberto;163.0; Solicitação de suporte número 97  ;True;True;Execução de atividades;0.08833746898263027
-SUP-2026-0098;;aluno98@example.com;Ambiente Virtual;Resolvido;173.0; Solicitação de suporte número 98  ;True;False;Acesso ao AVA;0.09330024813895782
-SUP-2026-0099;;aluno99@example.com;Execução;Resolvido;71.0; Solicitação de suporte número 99  ;True;False;Execução de atividades;0.042679900744416875
-SUP-2026-0100;;aluno100@example.com;SOFTWARE;Resolvido;2000.0; Solicitação de suporte número 100  ;True;False;Instalação de programas;1.0
-SUP-2026-0101;2026-07-22;aluno101@example.com;python;Resolvido;38.0; Solicitação de suporte número 101  ;True;True;Configuração do Python;0.02630272952853598
-SUP-2026-0102;;aluno102@example.com;python;Resolvido;85.0; Solicitação de suporte número 102  ;True;False;Configuração do Python;0.04962779156327544
-SUP-2026-0103;;aluno103@example.com;Ambiente Virtual;Aberto;122.0; Solicitação de suporte número 103  ;True;False;Acesso ao AVA;0.06799007444168735
-SUP-2026-0104;;aluno104@example.com;Execução;Aberto;23.0; Solicitação de suporte número 104  ;True;False;Execução de atividades;0.018858560794044667
-SUP-2026-0105;2026-07-26;aluno105@example.com;atividade;Em andamento;134.0; Solicitação de suporte número 105  ;True;True;Execução de atividades;0.07394540942928039
-SUP-2026-0106;;aluno106@example.com;python;Em andamento;94.0; Solicitação de suporte número 106  ;True;False;Configuração do Python;0.054094292803970226
-SUP-2026-0107;;aluno107@example.com;Ambiente Virtual;Em andamento;99.0; Solicitação de suporte número 107  ;True;False;Acesso ao AVA;0.05657568238213399
-SUP-2026-0108;;aluno108@example.com;python;Em andamento;117.0; Solicitação de suporte número 108  ;True;False;Configuração do Python;0.06550868486352357
-SUP-2026-0109;2026-07-30;aluno109@example.com;atividade;Resolvido;161.0; Solicitação de suporte número 109  ;True;True;Execução de atividades;0.08734491315136476
-SUP-2026-0110;;aluno110@example.com;;Aberto;175.0; Solicitação de suporte número 110  ;True;False;Desconhecida;0.09429280397022333
-SUP-2026-0111;;aluno111@example.com;atividade;Resolvido;174.0; Solicitação de suporte número 111  ;True;False;Execução de atividades;0.09379652605459057
-SUP-2026-0112;;aluno112@example.com;Ambiente Virtual;Em andamento;72.0; Solicitação de suporte número 112  ;True;False;Acesso ao AVA;0.04317617866004963
-SUP-2026-0113;2026-08-03;aluno113@example.com;Ambiente Virtual;Aberto;146.0; Solicitação de suporte número 113  ;True;True;Acesso ao AVA;0.07990074441687345
-SUP-2026-0114;;aluno114@example.com;instalação;Resolvido;77.0; Solicitação de suporte número 114  ;True;False;Instalação de programas;0.0456575682382134
-SUP-2026-0115;;aluno115@example.com;Execução;Em andamento;92.0; Solicitação de suporte número 115  ;True;False;Execução de atividades;0.05310173697270471
-SUP-2026-0116;;aluno116@example.com;SOFTWARE;Resolvido;134.0; Solicitação de suporte número 116  ;True;False;Instalação de programas;0.07394540942928039
-SUP-2026-0117;2026-08-07;aluno117@example.com;PASSWORD;Resolvido;18.0; Solicitação de suporte número 117  ;True;True;Senha;0.016377171215880892
-SUP-2026-0118;;aluno118@example.com;Ambiente Virtual;Resolvido;75.0; Solicitação de suporte número 118  ;True;False;Acesso ao AVA;0.04466501240694789
-SUP-2026-0119;;aluno119@example.com;ava;Aberto;90.0; Solicitação de suporte número 119  ;True;False;Acesso ao AVA;0.052109181141439205
-SUP-2026-0120;;nome@dominio;instalação;Resolvido;46.0; Solicitação de suporte número 120  ;False;False;Instalação de programas;0.030272952853598014
-SUP-2026-0121;2026-07-02;aluno121@example.com;PASSWORD;Resolvido;148.0; Solicitação de suporte número 121  ;True;True;Senha;0.08089330024813896
-SUP-2026-0122;;aluno122@example.com;ava;Aberto;24.0; Solicitação de suporte número 122  ;True;False;Acesso ao AVA;0.01935483870967742
-SUP-2026-0123;;aluno123@example.com;instalação;Aberto;99.0; Solicitação de suporte número 123  ;True;False;Instalação de programas;0.05657568238213399
-SUP-2026-0124;;aluno124@example.com;Execução;Em andamento;115.0; Solicitação de suporte número 124  ;True;False;Execução de atividades;0.06451612903225806
-SUP-2026-0125;2026-07-06;aluno125@example.com;instalação;Aberto;83.0; Solicitação de suporte número 125  ;True;True;Instalação de programas;0.048635235732009924
-SUP-2026-0126;;aluno126@example.com;Config Python;Aberto;96.0; Solicitação de suporte número 126  ;True;False;Configuração do Python;0.05508684863523573
-SUP-2026-0127;;aluno127@example.com;SOFTWARE;Em andamento;175.0; Solicitação de suporte número 127  ;True;False;Instalação de programas;0.09429280397022333
-SUP-2026-0128;;aluno128@example.com;Ambiente Virtual;Resolvido;148.0; Solicitação de suporte número 128  ;True;False;Acesso ao AVA;0.08089330024813896
-SUP-2026-0129;2026-07-10;aluno129@example.com;senha;Em andamento;65.0; Solicitação de suporte número 129  ;True;True;Senha;0.03970223325062035
-SUP-2026-0130;;aluno130@example.com;instalação;Em andamento;110.0; Solicitação de suporte número 130  ;True;False;Instalação de programas;0.062034739454094295
-SUP-2026-0131;;aluno131@example.com;ava;Em andamento;90.0; Solicitação de suporte número 131  ;True;False;Acesso ao AVA;0.052109181141439205
-SUP-2026-0132;;aluno132@example.com;senha;Em andamento;73.0; Solicitação de suporte número 132  ;True;False;Senha;0.04367245657568238
-SUP-2026-0133;2026-07-14;aluno133@example.com;instalação;Aberto;102.0; Solicitação de suporte número 133  ;True;True;Instalação de programas;0.05806451612903226
-SUP-2026-0134;;aluno134@example.com;ava;Resolvido;61.0; Solicitação de suporte número 134  ;True;False;Acesso ao AVA;0.03771712158808933
-SUP-2026-0135;;aluno135@example.com;SOFTWARE;Resolvido;94.0; Solicitação de suporte número 135  ;True;False;Instalação de programas;0.054094292803970226
-SUP-2026-0136;;aluno136@example.com;python;Em andamento;62.0; Solicitação de suporte número 136  ;True;False;Configuração do Python;0.03821339950372209
-SUP-2026-0137;2026-07-18;aluno137@example.com;ava;Em andamento;107.0; Solicitação de suporte número 137  ;True;True;Acesso ao AVA;0.06054590570719603
-SUP-2026-0138;;aluno138@example.com;Config Python;Resolvido;22.0; Solicitação de suporte número 138  ;True;False;Configuração do Python;0.01836228287841191
-SUP-2026-0139;;aluno139@example.com;python;Resolvido;169.0; Solicitação de suporte número 139  ;True;False;Configuração do Python;0.0913151364764268
-SUP-2026-0140;;aluno140@example.com;atividade;Resolvido;178.0; Solicitação de suporte número 140  ;True;False;Execução de atividades;0.09578163771712159
-SUP-2026-0141;2026-07-22;aluno141@example.com;atividade;Resolvido;12.0; Solicitação de suporte número 141  ;True;True;Execução de atividades;0.013399503722084368
-SUP-2026-0142;;aluno142@example.com;Ambiente Virtual;Resolvido;50.0; Solicitação de suporte número 142  ;True;False;Acesso ao AVA;0.03225806451612903
-SUP-2026-0143;;aluno143@example.com;Execução;Resolvido;14.0; Solicitação de suporte número 143  ;True;False;Execução de atividades;0.014392059553349877
-SUP-2026-0144;;aluno144@example.com;Ambiente Virtual;Resolvido;93.0; Solicitação de suporte número 144  ;True;False;Acesso ao AVA;0.05359801488833747
-SUP-2026-0145;2026-07-26;aluno145@example.com;Config Python;Resolvido;160.0; Solicitação de suporte número 145  ;True;True;Configuração do Python;0.08684863523573201
-SUP-2026-0146;;aluno146@example.com;atividade;Aberto;103.0; Solicitação de suporte número 146  ;True;False;Execução de atividades;0.058560794044665014
-SUP-2026-0147;;aluno147@example.com;Execução;Em andamento;70.0; Solicitação de suporte número 147  ;True;False;Execução de atividades;0.04218362282878412
-SUP-2026-0148;;aluno148@example.com;ava;Resolvido;5.0; Solicitação de suporte número 148  ;True;False;Acesso ao AVA;0.009925558312655087
-SUP-2026-0149;2026-07-30;aluno149@example.com;atividade;Em andamento;98.0; Solicitação de suporte número 149  ;True;True;Execução de atividades;0.05607940446650124
-SUP-2026-0150;;aluno150@example.com;senha;Aberto;175.0; Solicitação de suporte número 150  ;True;False;Senha;0.09429280397022333
+protocolo;data;email;categoria;status;tempo_minutos;descricao;data_original;email_valido;protocolo_valido;data_valida;registro_valido;categoria_padronizada;tempo_normalizado
+SUP-2026-0002;2026-07-03;aluno2@example.com;SOFTWARE;Em andamento;40.0; Solicitação de suporte número 2  ;03-07-2026;True;True;True;True;Instalação de programas;0.02729528535980149
+SUP-2026-0003;2026-04-07;aluno3@example.com;Ambiente Virtual;Aberto;156.0; Solicitação de suporte número 3  ;2026/07/04;True;True;True;True;Acesso ao AVA;0.084863523573201
+SUP-2026-0004;2026-07-05;aluno4@example.com;senha;Aberto;12.0; Solicitação de suporte número 4  ;05/07/2026;True;True;True;True;Senha;0.013399503722084368
+SUP-2026-0005;2026-06-07;aluno5@example.com;Ambiente Virtual;Em andamento;64.0; Solicitação de suporte número 5  ;2026-07-06;True;True;True;True;Acesso ao AVA;0.039205955334987594
+SUP-2026-0006;2026-07-07;aluno6@example.com;atividade;Aberto;148.0; Solicitação de suporte número 6  ;07-07-2026;True;True;True;True;Execução de atividades;0.08089330024813896
+SUP-2026-0007;2026-08-07;aluno7@example.com;SOFTWARE;Resolvido;61.0; Solicitação de suporte número 7  ;2026/07/08;True;True;True;True;Instalação de programas;0.03771712158808933
+SUP-2026-0008;2026-07-09;aluno8@example.com;PASSWORD;Resolvido;6.0; Solicitação de suporte número 8  ;09/07/2026;True;True;True;True;Senha;0.010421836228287842
+SUP-2026-0009;2026-10-07;aluno9@example.com;instalação;Resolvido;92.0; Solicitação de suporte número 9  ;2026-07-10;True;True;True;True;Instalação de programas;0.05310173697270471
+SUP-2026-0010;2026-07-11;email-invalido;python;Em andamento;60.0; Solicitação de suporte número 10  ;11-07-2026;False;True;True;False;Configuração do Python;0.03722084367245657
+SUP-2026-0011;2026-12-07;aluno11@example.com;Config Python;Aberto;28.0; Solicitação de suporte número 11  ;2026/07/12;True;True;True;True;Configuração do Python;0.021339950372208438
+SUP-2026-0012;2026-07-13;aluno12@example.com;senha;Aberto;96.0; Solicitação de suporte número 12  ;13/07/2026;True;True;True;True;Senha;0.05508684863523573
+SUP-2026-0013;2026-07-14;aluno13@example.com;Config Python;Resolvido;16.0; Solicitação de suporte número 13  ;2026-07-14;True;True;True;True;Configuração do Python;0.015384615384615385
+SUP-2026-0014;2026-07-15;aluno14@example.com;PASSWORD;Aberto;101.0; Solicitação de suporte número 14  ;15-07-2026;True;True;True;True;Senha;0.05756823821339951
+SUP-2026-0015;2026-07-16;aluno15@example.com;Ambiente Virtual;Resolvido;165.0; Solicitação de suporte número 15  ;2026/07/16;True;True;True;True;Acesso ao AVA;0.08933002481389578
+SUP-2026-0016;2026-07-17;aluno16@example.com;Execução;Resolvido;152.0; Solicitação de suporte número 16  ;17/07/2026;True;True;True;True;Execução de atividades;0.08287841191066997
+SUP-2026-0017;2026-07-18;aluno17@example.com;SOFTWARE;Aberto;16.0; Solicitação de suporte número 17  ;2026-07-18;True;True;True;True;Instalação de programas;0.015384615384615385
+SUP-2026-0018;2026-07-19;aluno18@example.com;SOFTWARE;Resolvido;25.0; Solicitação de suporte número 18  ;19-07-2026;True;True;True;True;Instalação de programas;0.019851116625310174
+SUP-2026-0019;2026-07-20;aluno19@example.com;SOFTWARE;Aberto;102.0; Solicitação de suporte número 19  ;2026/07/20;True;True;True;True;Instalação de programas;0.05806451612903226
+SUP-2026-0020;;aluno20@example.com;python;Resolvido;167.0; Solicitação de suporte número 20  ;31/02/2026;True;True;False;False;Configuração do Python;0.09032258064516129
+SUP-2026-0021;2026-07-22;aluno21@example.com;Config Python;Em andamento;99.0; Solicitação de suporte número 21  ;2026-07-22;True;True;True;True;Configuração do Python;0.05657568238213399
+SUP-2026-0022;2026-07-23;aluno22@example.com;Config Python;Em andamento;176.0; Solicitação de suporte número 22  ;23-07-2026;True;True;True;True;Configuração do Python;0.09478908188585608
+SUP-2026-0023;2026-07-24;aluno23@example.com;python;Aberto;160.0; Solicitação de suporte número 23  ;2026/07/24;True;True;True;True;Configuração do Python;0.08684863523573201
+SUP-2026-0024;2026-07-25;aluno24@example.com;instalação;Em andamento;46.0; Solicitação de suporte número 24  ;25/07/2026;True;True;True;True;Instalação de programas;0.030272952853598014
+SUP-2026-0025;2026-07-26;aluno25@example.com;PASSWORD;Resolvido;74.0; Solicitação de suporte número 25  ;2026-07-26;True;True;True;True;Senha;0.044168734491315136
+SUP-2026-0026;2026-07-27;aluno26@example.com;atividade;Em andamento;180.0; Solicitação de suporte número 26  ;27-07-2026;True;True;True;True;Execução de atividades;0.0967741935483871
+SUP-2026-0027;2026-07-28;aluno27@example.com;Config Python;Aberto;63.0; Solicitação de suporte número 27  ;2026/07/28;True;True;True;True;Configuração do Python;0.03870967741935484
+SUP-2026-0028;2026-07-29;aluno28@example.com;ava;Resolvido;107.0; Solicitação de suporte número 28  ;29/07/2026;True;True;True;True;Acesso ao AVA;0.06054590570719603
+SUP-2026-0029;2026-07-30;aluno29@example.com;python;Aberto;59.0; Solicitação de suporte número 29  ;2026-07-30;True;True;True;True;Configuração do Python;0.03672456575682382
+SUP-2026-0030;2026-07-31;aluno30@example.com;Execução;Resolvido;-15.0; Solicitação de suporte número 30  ;31-07-2026;True;True;True;True;Execução de atividades;0.0
+SUP-2026-0031;2026-01-08;aluno31@example.com;PASSWORD;Resolvido;169.0; Solicitação de suporte número 31  ;2026/08/01;True;True;True;True;Senha;0.0913151364764268
+SUP-2026-0032;2026-08-02;aluno32@example.com;PASSWORD;Em andamento;72.0; Solicitação de suporte número 32  ;02/08/2026;True;True;True;True;Senha;0.04317617866004963
+SUP-2026-0033;2026-03-08;aluno33@example.com;instalação;Em andamento;148.0; Solicitação de suporte número 33  ;2026-08-03;True;True;True;True;Instalação de programas;0.08089330024813896
+SUP-2026-0034;2026-08-04;aluno34@example.com;atividade;Resolvido;154.0; Solicitação de suporte número 34  ;04-08-2026;True;True;True;True;Execução de atividades;0.08387096774193549
+SUP-2026-0035;2026-05-08;aluno35@example.com;senha;Resolvido;97.0; Solicitação de suporte número 35  ;2026/08/05;True;True;True;True;Senha;0.055583126550868486
+SUP-2026-0036;2026-08-06;aluno36@example.com;SOFTWARE;Em andamento;135.0; Solicitação de suporte número 36  ;06/08/2026;True;True;True;True;Instalação de programas;0.07444168734491315
+SUP-2026-0037;2026-07-08;aluno37@example.com;PASSWORD;Aberto;17.0; Solicitação de suporte número 37  ;2026-08-07;True;True;True;True;Senha;0.01588089330024814
+SUP-2026-0038;2026-08-08;aluno38@example.com;Ambiente Virtual;Em andamento;165.0; Solicitação de suporte número 38  ;08-08-2026;True;True;True;True;Acesso ao AVA;0.08933002481389578
+SUP-2026-0039;2026-09-08;aluno39@example.com;instalação;Resolvido;157.0; Solicitação de suporte número 39  ;2026/08/09;True;True;True;True;Instalação de programas;0.08535980148883375
+SUP-2026-0040;2026-07-01;aluno40@example.com;categoria inexistente;Resolvido;102.0; Solicitação de suporte número 40  ;01/07/2026;True;True;True;True;Outros;0.05806451612903226
+SUP-2026-0041;2026-02-07;aluno41@example.com;Execução;Resolvido;140.0; Solicitação de suporte número 41  ;2026-07-02;True;True;True;True;Execução de atividades;0.07692307692307693
+SUP-2026-0042;2026-07-03;aluno42@example.com;python;Aberto;179.0; Solicitação de suporte número 42  ;03-07-2026;True;True;True;True;Configuração do Python;0.09627791563275434
+SUP-2026-0043;2026-04-07;aluno43@example.com;Ambiente Virtual;Resolvido;169.0; Solicitação de suporte número 43  ;2026/07/04;True;True;True;True;Acesso ao AVA;0.0913151364764268
+SUP-2026-0044;2026-07-05;aluno44@example.com;Config Python;Aberto;80.0; Solicitação de suporte número 44  ;05/07/2026;True;True;True;True;Configuração do Python;0.04714640198511166
+SUP-2026-0045;2026-06-07;aluno45@example.com;senha;Em andamento;121.0; Solicitação de suporte número 45  ;2026-07-06;True;True;True;True;Senha;0.0674937965260546
+SUP-2026-0046;2026-07-07;aluno46@example.com;ava;Resolvido;133.0; Solicitação de suporte número 46  ;07-07-2026;True;True;True;True;Acesso ao AVA;0.07344913151364764
+SUP-2026-0047;2026-08-07;aluno47@example.com;instalação;Aberto;165.0; Solicitação de suporte número 47  ;2026/07/08;True;True;True;True;Instalação de programas;0.08933002481389578
+SUP-2026-0048;2026-07-09;aluno48@example.com;python;Em andamento;44.0; Solicitação de suporte número 48  ;09/07/2026;True;True;True;True;Configuração do Python;0.029280397022332507
+SUP-2026-0049;2026-10-07;aluno49@example.com;Config Python;Em andamento;143.0; Solicitação de suporte número 49  ;2026-07-10;True;True;True;True;Configuração do Python;0.07841191066997519
+SUP-2026-0001;2026-07-11;aluno50@example.com;atividade;Aberto;158.0; Solicitação de suporte número 50  ;11-07-2026;True;True;True;True;Execução de atividades;0.0858560794044665
+SUP-2026-0051;2026-12-07;aluno51@example.com;Config Python;Resolvido;9.0; Solicitação de suporte número 51  ;2026/07/12;True;True;True;True;Configuração do Python;0.011910669975186104
+SUP-2026-0052;2026-07-13;aluno52@example.com;Ambiente Virtual;Resolvido;83.0; Solicitação de suporte número 52  ;13/07/2026;True;True;True;True;Acesso ao AVA;0.048635235732009924
+SUP-2026-0053;2026-07-14;aluno53@example.com;SOFTWARE;Aberto;66.0; Solicitação de suporte número 53  ;2026-07-14;True;True;True;True;Instalação de programas;0.0401985111662531
+SUP-2026-0054;2026-07-15;aluno54@example.com;Execução;Aberto;26.0; Solicitação de suporte número 54  ;15-07-2026;True;True;True;True;Execução de atividades;0.020347394540942927
+SUP-2026-0055;2026-07-16;aluno55@example.com;PASSWORD;Aberto;141.0; Solicitação de suporte número 55  ;2026/07/16;True;True;True;True;Senha;0.07741935483870968
+SUP-2026-0056;2026-07-17;aluno56@example.com;instalação;Em andamento;173.0; Solicitação de suporte número 56  ;17/07/2026;True;True;True;True;Instalação de programas;0.09330024813895782
+SUP-2026-0057;2026-07-18;aluno57@example.com;PASSWORD;Em andamento;72.0; Solicitação de suporte número 57  ;2026-07-18;True;True;True;True;Senha;0.04317617866004963
+SUP-2026-0058;2026-07-19;aluno58@example.com;atividade;Resolvido;59.0; Solicitação de suporte número 58  ;19-07-2026;True;True;True;True;Execução de atividades;0.03672456575682382
+SUP-2026-0059;2026-07-20;aluno59@example.com;atividade;Em andamento;84.0; Solicitação de suporte número 59  ;2026/07/20;True;True;True;True;Execução de atividades;0.04913151364764268
+SUP-2026-0060;2026-07-21;;senha;Resolvido;117.0; Solicitação de suporte número 60  ;21/07/2026;False;True;True;False;Senha;0.06550868486352357
+SUP-2026-0061;2026-07-22;aluno61@example.com;atividade;Resolvido;35.0; Solicitação de suporte número 61  ;2026-07-22;True;True;True;True;Execução de atividades;0.02481389578163772
+SUP-2026-0062;2026-07-23;aluno62@example.com;SOFTWARE;Em andamento;21.0; Solicitação de suporte número 62  ;23-07-2026;True;True;True;True;Instalação de programas;0.017866004962779156
+SUP-2026-0063;2026-07-24;aluno63@example.com;Config Python;Aberto;155.0; Solicitação de suporte número 63  ;2026/07/24;True;True;True;True;Configuração do Python;0.08436724565756824
+SUP-2026-0064;2026-07-25;aluno64@example.com;atividade;Em andamento;155.0; Solicitação de suporte número 64  ;25/07/2026;True;True;True;True;Execução de atividades;0.08436724565756824
+SUP-2026-0065;2026-07-26;aluno65@example.com;SOFTWARE;Aberto;23.0; Solicitação de suporte número 65  ;2026-07-26;True;True;True;True;Instalação de programas;0.018858560794044667
+SUP-2026-0066;2026-07-27;aluno66@example.com;ava;Em andamento;22.0; Solicitação de suporte número 66  ;27-07-2026;True;True;True;True;Acesso ao AVA;0.01836228287841191
+SUP-2026-0067;2026-07-28;aluno67@example.com;ava;Resolvido;23.0; Solicitação de suporte número 67  ;2026/07/28;True;True;True;True;Acesso ao AVA;0.018858560794044667
+SUP-2026-0068;2026-07-29;aluno68@example.com;atividade;Em andamento;76.0; Solicitação de suporte número 68  ;29/07/2026;True;True;True;True;Execução de atividades;0.04516129032258064
+SUP-2026-0069;2026-07-30;aluno69@example.com;PASSWORD;Em andamento;143.0; Solicitação de suporte número 69  ;2026-07-30;True;True;True;True;Senha;0.07841191066997519
+SUP-2026-0070;2026-07-31;aluno70@example.com;instalação;Resolvido;; Solicitação de suporte número 70  ;31-07-2026;True;True;True;True;Instalação de programas;
+SUP-2026-0071;2026-01-08;aluno71@example.com;PASSWORD;Resolvido;53.0; Solicitação de suporte número 71  ;2026/08/01;True;True;True;True;Senha;0.0337468982630273
+SUP-2026-0072;2026-08-02;aluno72@example.com;Ambiente Virtual;Aberto;173.0; Solicitação de suporte número 72  ;02/08/2026;True;True;True;True;Acesso ao AVA;0.09330024813895782
+SUP-2026-0073;2026-03-08;aluno73@example.com;senha;Resolvido;113.0; Solicitação de suporte número 73  ;2026-08-03;True;True;True;True;Senha;0.06352357320099256
+SUP-2026-0074;2026-08-04;aluno74@example.com;senha;Resolvido;18.0; Solicitação de suporte número 74  ;04-08-2026;True;True;True;True;Senha;0.016377171215880892
+SUP-2026-0075;2026-05-08;aluno75@example.com;Ambiente Virtual;Aberto;108.0; Solicitação de suporte número 75  ;2026/08/05;True;True;True;True;Acesso ao AVA;0.06104218362282878
+SUP-2026-0076;2026-08-06;aluno76@example.com;Config Python;Aberto;68.0; Solicitação de suporte número 76  ;06/08/2026;True;True;True;True;Configuração do Python;0.04119106699751861
+SUP-2026-0077;2026-07-08;aluno77@example.com;SOFTWARE;Em andamento;142.0; Solicitação de suporte número 77  ;2026-08-07;True;True;True;True;Instalação de programas;0.07791563275434243
+SUP-2026-0078;2026-08-08;aluno78@example.com;PASSWORD;Em andamento;113.0; Solicitação de suporte número 78  ;08-08-2026;True;True;True;True;Senha;0.06352357320099256
+SUP-2026-0079;2026-09-08;aluno79@example.com;instalação;Resolvido;123.0; Solicitação de suporte número 79  ;2026/08/09;True;True;True;True;Instalação de programas;0.0684863523573201
+PROTOCOLO-80;2026-07-01;aluno80@example.com;SOFTWARE;Aberto;118.0; Solicitação de suporte número 80  ;01/07/2026;True;True;True;True;Instalação de programas;0.06600496277915632
+SUP-2026-0081;2026-02-07;aluno81@example.com;atividade;Aberto;17.0; Solicitação de suporte número 81  ;2026-07-02;True;True;True;True;Execução de atividades;0.01588089330024814
+SUP-2026-0082;2026-07-03;aluno82@example.com;atividade;Aberto;28.0; Solicitação de suporte número 82  ;03-07-2026;True;True;True;True;Execução de atividades;0.021339950372208438
+SUP-2026-0083;2026-04-07;aluno83@example.com;SOFTWARE;Em andamento;109.0; Solicitação de suporte número 83  ;2026/07/04;True;True;True;True;Instalação de programas;0.06153846153846154
+SUP-2026-0084;2026-07-05;aluno84@example.com;PASSWORD;Resolvido;59.0; Solicitação de suporte número 84  ;05/07/2026;True;True;True;True;Senha;0.03672456575682382
+SUP-2026-0085;2026-06-07;aluno85@example.com;senha;Aberto;47.0; Solicitação de suporte número 85  ;2026-07-06;True;True;True;True;Senha;0.03076923076923077
+SUP-2026-0086;2026-07-07;aluno86@example.com;senha;Aberto;104.0; Solicitação de suporte número 86  ;07-07-2026;True;True;True;True;Senha;0.05905707196029777
+SUP-2026-0087;2026-08-07;aluno87@example.com;python;Resolvido;78.0; Solicitação de suporte número 87  ;2026/07/08;True;True;True;True;Configuração do Python;0.046153846153846156
+SUP-2026-0088;2026-07-09;aluno88@example.com;senha;Resolvido;44.0; Solicitação de suporte número 88  ;09/07/2026;True;True;True;True;Senha;0.029280397022332507
+SUP-2026-0089;2026-10-07;aluno89@example.com;SOFTWARE;Resolvido;60.0; Solicitação de suporte número 89  ;2026-07-10;True;True;True;True;Instalação de programas;0.03722084367245657
+SUP-2026-0090;;aluno90@example.com;ava;Aberto;85.0; Solicitação de suporte número 90  ;;True;True;False;False;Acesso ao AVA;0.04962779156327544
+SUP-2026-0091;2026-12-07;aluno91@example.com;ava;Aberto;154.0; Solicitação de suporte número 91  ;2026/07/12;True;True;True;True;Acesso ao AVA;0.08387096774193549
+SUP-2026-0092;2026-07-13;aluno92@example.com;PASSWORD;Em andamento;19.0; Solicitação de suporte número 92  ;13/07/2026;True;True;True;True;Senha;0.01687344913151365
+SUP-2026-0093;2026-07-14;aluno93@example.com;atividade;Aberto;52.0; Solicitação de suporte número 93  ;2026-07-14;True;True;True;True;Execução de atividades;0.03325062034739454
+SUP-2026-0094;2026-07-15;aluno94@example.com;Ambiente Virtual;Aberto;177.0; Solicitação de suporte número 94  ;15-07-2026;True;True;True;True;Acesso ao AVA;0.09528535980148883
+SUP-2026-0095;2026-07-16;aluno95@example.com;SOFTWARE;Resolvido;35.0; Solicitação de suporte número 95  ;2026/07/16;True;True;True;True;Instalação de programas;0.02481389578163772
+SUP-2026-0096;2026-07-17;aluno96@example.com;Execução;Em andamento;153.0; Solicitação de suporte número 96  ;17/07/2026;True;True;True;True;Execução de atividades;0.08337468982630274
+SUP-2026-0097;2026-07-18;aluno97@example.com;Execução;Aberto;163.0; Solicitação de suporte número 97  ;2026-07-18;True;True;True;True;Execução de atividades;0.08833746898263027
+SUP-2026-0098;2026-07-19;aluno98@example.com;Ambiente Virtual;Resolvido;173.0; Solicitação de suporte número 98  ;19-07-2026;True;True;True;True;Acesso ao AVA;0.09330024813895782
+SUP-2026-0099;2026-07-20;aluno99@example.com;Execução;Resolvido;71.0; Solicitação de suporte número 99  ;2026/07/20;True;True;True;True;Execução de atividades;0.042679900744416875
+SUP-2026-0100;2026-07-21;aluno100@example.com;SOFTWARE;Resolvido;2000.0; Solicitação de suporte número 100  ;21/07/2026;True;True;True;True;Instalação de programas;1.0
+SUP-2026-0101;2026-07-22;aluno101@example.com;python;Resolvido;38.0; Solicitação de suporte número 101  ;2026-07-22;True;True;True;True;Configuração do Python;0.02630272952853598
+SUP-2026-0102;2026-07-23;aluno102@example.com;python;Resolvido;85.0; Solicitação de suporte número 102  ;23-07-2026;True;True;True;True;Configuração do Python;0.04962779156327544
+SUP-2026-0103;2026-07-24;aluno103@example.com;Ambiente Virtual;Aberto;122.0; Solicitação de suporte número 103  ;2026/07/24;True;True;True;True;Acesso ao AVA;0.06799007444168735
+SUP-2026-0104;2026-07-25;aluno104@example.com;Execução;Aberto;23.0; Solicitação de suporte número 104  ;25/07/2026;True;True;True;True;Execução de atividades;0.018858560794044667
+SUP-2026-0105;2026-07-26;aluno105@example.com;atividade;Em andamento;134.0; Solicitação de suporte número 105  ;2026-07-26;True;True;True;True;Execução de atividades;0.07394540942928039
+SUP-2026-0106;2026-07-27;aluno106@example.com;python;Em andamento;94.0; Solicitação de suporte número 106  ;27-07-2026;True;True;True;True;Configuração do Python;0.054094292803970226
+SUP-2026-0107;2026-07-28;aluno107@example.com;Ambiente Virtual;Em andamento;99.0; Solicitação de suporte número 107  ;2026/07/28;True;True;True;True;Acesso ao AVA;0.05657568238213399
+SUP-2026-0108;2026-07-29;aluno108@example.com;python;Em andamento;117.0; Solicitação de suporte número 108  ;29/07/2026;True;True;True;True;Configuração do Python;0.06550868486352357
+SUP-2026-0109;2026-07-30;aluno109@example.com;atividade;Resolvido;161.0; Solicitação de suporte número 109  ;2026-07-30;True;True;True;True;Execução de atividades;0.08734491315136476
+SUP-2026-0110;2026-07-31;aluno110@example.com;;Aberto;175.0; Solicitação de suporte número 110  ;31-07-2026;True;True;True;True;Desconhecida;0.09429280397022333
+SUP-2026-0111;2026-01-08;aluno111@example.com;atividade;Resolvido;174.0; Solicitação de suporte número 111  ;2026/08/01;True;True;True;True;Execução de atividades;0.09379652605459057
+SUP-2026-0112;2026-08-02;aluno112@example.com;Ambiente Virtual;Em andamento;72.0; Solicitação de suporte número 112  ;02/08/2026;True;True;True;True;Acesso ao AVA;0.04317617866004963
+SUP-2026-0113;2026-03-08;aluno113@example.com;Ambiente Virtual;Aberto;146.0; Solicitação de suporte número 113  ;2026-08-03;True;True;True;True;Acesso ao AVA;0.07990074441687345
+SUP-2026-0114;2026-08-04;aluno114@example.com;instalação;Resolvido;77.0; Solicitação de suporte número 114  ;04-08-2026;True;True;True;True;Instalação de programas;0.0456575682382134
+SUP-2026-0115;2026-05-08;aluno115@example.com;Execução;Em andamento;92.0; Solicitação de suporte número 115  ;2026/08/05;True;True;True;True;Execução de atividades;0.05310173697270471
+SUP-2026-0116;2026-08-06;aluno116@example.com;SOFTWARE;Resolvido;134.0; Solicitação de suporte número 116  ;06/08/2026;True;True;True;True;Instalação de programas;0.07394540942928039
+SUP-2026-0117;2026-07-08;aluno117@example.com;PASSWORD;Resolvido;18.0; Solicitação de suporte número 117  ;2026-08-07;True;True;True;True;Senha;0.016377171215880892
+SUP-2026-0118;2026-08-08;aluno118@example.com;Ambiente Virtual;Resolvido;75.0; Solicitação de suporte número 118  ;08-08-2026;True;True;True;True;Acesso ao AVA;0.04466501240694789
+SUP-2026-0119;2026-09-08;aluno119@example.com;ava;Aberto;90.0; Solicitação de suporte número 119  ;2026/08/09;True;True;True;True;Acesso ao AVA;0.052109181141439205
+SUP-2026-0120;2026-07-01;nome@dominio;instalação;Resolvido;46.0; Solicitação de suporte número 120  ;01/07/2026;False;True;True;False;Instalação de programas;0.030272952853598014
+SUP-2026-0121;2026-02-07;aluno121@example.com;PASSWORD;Resolvido;148.0; Solicitação de suporte número 121  ;2026-07-02;True;True;True;True;Senha;0.08089330024813896
+SUP-2026-0122;2026-07-03;aluno122@example.com;ava;Aberto;24.0; Solicitação de suporte número 122  ;03-07-2026;True;True;True;True;Acesso ao AVA;0.01935483870967742
+SUP-2026-0123;2026-04-07;aluno123@example.com;instalação;Aberto;99.0; Solicitação de suporte número 123  ;2026/07/04;True;True;True;True;Instalação de programas;0.05657568238213399
+SUP-2026-0124;2026-07-05;aluno124@example.com;Execução;Em andamento;115.0; Solicitação de suporte número 124  ;05/07/2026;True;True;True;True;Execução de atividades;0.06451612903225806
+SUP-2026-0125;2026-06-07;aluno125@example.com;instalação;Aberto;83.0; Solicitação de suporte número 125  ;2026-07-06;True;True;True;True;Instalação de programas;0.048635235732009924
+SUP-2026-0126;2026-07-07;aluno126@example.com;Config Python;Aberto;96.0; Solicitação de suporte número 126  ;07-07-2026;True;True;True;True;Configuração do Python;0.05508684863523573
+SUP-2026-0127;2026-08-07;aluno127@example.com;SOFTWARE;Em andamento;175.0; Solicitação de suporte número 127  ;2026/07/08;True;True;True;True;Instalação de programas;0.09429280397022333
+SUP-2026-0128;2026-07-09;aluno128@example.com;Ambiente Virtual;Resolvido;148.0; Solicitação de suporte número 128  ;09/07/2026;True;True;True;True;Acesso ao AVA;0.08089330024813896
+SUP-2026-0129;2026-10-07;aluno129@example.com;senha;Em andamento;65.0; Solicitação de suporte número 129  ;2026-07-10;True;True;True;True;Senha;0.03970223325062035
+SUP-2026-0130;2026-07-11;aluno130@example.com;instalação;Em andamento;110.0; Solicitação de suporte número 130  ;11-07-2026;True;True;True;True;Instalação de programas;0.062034739454094295
+SUP-2026-0131;2026-12-07;aluno131@example.com;ava;Em andamento;90.0; Solicitação de suporte número 131  ;2026/07/12;True;True;True;True;Acesso ao AVA;0.052109181141439205
+SUP-2026-0132;2026-07-13;aluno132@example.com;senha;Em andamento;73.0; Solicitação de suporte número 132  ;13/07/2026;True;True;True;True;Senha;0.04367245657568238
+SUP-2026-0133;2026-07-14;aluno133@example.com;instalação;Aberto;102.0; Solicitação de suporte número 133  ;2026-07-14;True;True;True;True;Instalação de programas;0.05806451612903226
+SUP-2026-0134;2026-07-15;aluno134@example.com;ava;Resolvido;61.0; Solicitação de suporte número 134  ;15-07-2026;True;True;True;True;Acesso ao AVA;0.03771712158808933
+SUP-2026-0135;2026-07-16;aluno135@example.com;SOFTWARE;Resolvido;94.0; Solicitação de suporte número 135  ;2026/07/16;True;True;True;True;Instalação de programas;0.054094292803970226
+SUP-2026-0136;2026-07-17;aluno136@example.com;python;Em andamento;62.0; Solicitação de suporte número 136  ;17/07/2026;True;True;True;True;Configuração do Python;0.03821339950372209
+SUP-2026-0137;2026-07-18;aluno137@example.com;ava;Em andamento;107.0; Solicitação de suporte número 137  ;2026-07-18;True;True;True;True;Acesso ao AVA;0.06054590570719603
+SUP-2026-0138;2026-07-19;aluno138@example.com;Config Python;Resolvido;22.0; Solicitação de suporte número 138  ;19-07-2026;True;True;True;True;Configuração do Python;0.01836228287841191
+SUP-2026-0139;2026-07-20;aluno139@example.com;python;Resolvido;169.0; Solicitação de suporte número 139  ;2026/07/20;True;True;True;True;Configuração do Python;0.0913151364764268
+SUP-2026-0140;2026-07-21;aluno140@example.com;atividade;Resolvido;178.0; Solicitação de suporte número 140  ;21/07/2026;True;True;True;True;Execução de atividades;0.09578163771712159
+SUP-2026-0141;2026-07-22;aluno141@example.com;atividade;Resolvido;12.0; Solicitação de suporte número 141  ;2026-07-22;True;True;True;True;Execução de atividades;0.013399503722084368
+SUP-2026-0142;2026-07-23;aluno142@example.com;Ambiente Virtual;Resolvido;50.0; Solicitação de suporte número 142  ;23-07-2026;True;True;True;True;Acesso ao AVA;0.03225806451612903
+SUP-2026-0143;2026-07-24;aluno143@example.com;Execução;Resolvido;14.0; Solicitação de suporte número 143  ;2026/07/24;True;True;True;True;Execução de atividades;0.014392059553349877
+SUP-2026-0144;2026-07-25;aluno144@example.com;Ambiente Virtual;Resolvido;93.0; Solicitação de suporte número 144  ;25/07/2026;True;True;True;True;Acesso ao AVA;0.05359801488833747
+SUP-2026-0145;2026-07-26;aluno145@example.com;Config Python;Resolvido;160.0; Solicitação de suporte número 145  ;2026-07-26;True;True;True;True;Configuração do Python;0.08684863523573201
+SUP-2026-0146;2026-07-27;aluno146@example.com;atividade;Aberto;103.0; Solicitação de suporte número 146  ;27-07-2026;True;True;True;True;Execução de atividades;0.058560794044665014
+SUP-2026-0147;2026-07-28;aluno147@example.com;Execução;Em andamento;70.0; Solicitação de suporte número 147  ;2026/07/28;True;True;True;True;Execução de atividades;0.04218362282878412
+SUP-2026-0148;2026-07-29;aluno148@example.com;ava;Resolvido;5.0; Solicitação de suporte número 148  ;29/07/2026;True;True;True;True;Acesso ao AVA;0.009925558312655087
+SUP-2026-0149;2026-07-30;aluno149@example.com;atividade;Em andamento;98.0; Solicitação de suporte número 149  ;2026-07-30;True;True;True;True;Execução de atividades;0.05607940446650124
+SUP-2026-0150;2026-07-31;aluno150@example.com;senha;Aberto;175.0; Solicitação de suporte número 150  ;31-07-2026;True;True;True;True;Senha;0.09429280397022333

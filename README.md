@@ -1,14 +1,14 @@
-## identificação do discente ou equipe;
+## Identificação do discente ou equipe
 
 Equipe: Eduardo Lourenço Borges e Silva e Gabriel Moreira Branco
 Turma: Vespertino
 
-## descrição resumida da solução;
+## Descrição resumida da solução
 
 Esta é uma aplicação de linha de comando baseada em Python que automatiza a leitura, validação e organização de chamados de suporte técnico provenientes de múltiplas fontes (CSV, JSON, TXT). A solução consolida os dados padronizando categorias de problemas, normalizando textos, extraindo informações com Expressões Regulares, validando inconsistências e gerando relatórios gráficos estatísticos com auxílio das bibliotecas Pandas, NumPy e Matplotlib.
 
 
-## instruções para criação e ativação do ambiente virtual;
+## Instruções para criação e ativação do ambiente virtual
 
 
 
@@ -45,7 +45,7 @@ python -m pytest tests/
 ```
 
 
-## decisões adotadas para tratar dados inválidos;
+## Decisões adotadas para tratar dados inválidos
 
 Registros que falham na validação (ausência de protocolo, data, ou e-mails em formatos incorretos) não interrompem a execução. São classificados como inválidos em uma coluna específica (registro_valido = False) e notificados no arquivo de log (output/erros.log).
 
@@ -57,6 +57,7 @@ Arquivos faltantes geram um Warning no log, e o programa cria estruturas nulas p
 
 Linhas mal-formadas (excesso ou falta de colunas) são ignoradas e geram um Warning no log.
 
+Caso haja registros duplicados, será considerado o último, levando em conta o protocolo para identificar a duplicação.
 
 ## Declaração de Uso de Ferramentas de Inteligência Artificial
 

@@ -1,8 +1,8 @@
 {
     "total_atendimentos_processados": 149,
     "total_originais": 150,
-    "registros_validos": 37,
-    "percentual_invalidos": 74.67,
+    "registros_validos": 144,
+    "percentual_invalidos": 3.33,
     "quantidade_por_categoria": {
         "Instalação de programas": 32,
         "Execução de atividades": 31,
